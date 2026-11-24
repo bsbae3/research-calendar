@@ -1,0 +1,2205 @@
+[
+  {
+    "code": "BKCSA001",
+    "abbr": "AAAI",
+    "name": "AAAI Conference on Artificial Intelligence",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA002",
+    "abbr": "CCS",
+    "name": "ACM Conference on Computer and Communications Security",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA003",
+    "abbr": "CHI",
+    "name": "ACM Conference on Human Factors in Computing Systems",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA004",
+    "abbr": "MobiCom",
+    "name": "ACM International Conference on Mobile Computing and Networking",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA005",
+    "abbr": "MM",
+    "name": "ACM Multimedia Conference",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA006",
+    "abbr": "SIGCOMM",
+    "name": "ACM SIGCOMM Conference",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA007",
+    "abbr": "SIGIR",
+    "name": "ACM SIGIR Conference on Information Retrieval",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA008",
+    "abbr": "KDD",
+    "name": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA009",
+    "abbr": "FSE",
+    "name": "ACM SIGSOFT Symposium on the Foundations of Software Engineering",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA010",
+    "abbr": "SOSP",
+    "name": "ACM Symposium on Operating Systems Principles",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA011",
+    "abbr": "STOC",
+    "name": "ACM Symposium on Theory of Computing",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA012",
+    "abbr": "ACL",
+    "name": "Annual Meeting of the Association for Computational Linguistics",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA013",
+    "abbr": "ASPLOS",
+    "name": "Architectural Support for Programming Languages and Operating Systems",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA014",
+    "abbr": "CVPR",
+    "name": "Conference on Computer Vision and Pattern Recognition",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA015",
+    "abbr": "NIPS",
+    "name": "Conference on Neural Information Processing Systems",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA016",
+    "abbr": "OOPSLA",
+    "name": "Conference on Object-Oriented Programming, System, Languages, and Applications",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA017",
+    "abbr": "INFOCOM",
+    "name": "IEEE Conference on Computer Communications",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA018",
+    "abbr": "HPCA",
+    "name": "IEEE International Symposium on High-Performance Computer Architecture",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA019",
+    "abbr": "RTSS",
+    "name": "IEEE Real-Time Systems Symposium",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA020",
+    "abbr": "FOCS",
+    "name": "IEEE Symposium on Foundations of Computer Science",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA021",
+    "abbr": "S&P",
+    "name": "IEEE Symposium on Security and Privacy",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA022",
+    "abbr": "VIS",
+    "name": "IEEE Visualization",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA023",
+    "abbr": "MICRO",
+    "name": "IEEE/ACM International Symposium on Microarchitecture",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA024",
+    "abbr": "SIGGRAPH",
+    "name": "International Conference on Computer Graphics and Interactive Techniques",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA025",
+    "abbr": "ICCV",
+    "name": "International Conference on Computer Vision",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA026",
+    "abbr": "CAV",
+    "name": "International Conference on Computer-Aided Verification",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA027",
+    "abbr": "ICML",
+    "name": "International Conference on Machine Learning",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA028",
+    "abbr": "SIGMOD",
+    "name": "International Conference on Management of Data",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA029",
+    "abbr": "ICSE",
+    "name": "International Conference on Software Engineering",
+    "rank": 4,
+    "page": 1,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA030",
+    "abbr": "EUROCRYPT",
+    "name": "International Conference on the Theory and Applications of Cryptographic Techniques",
+    "rank": 4,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA031",
+    "abbr": "VLDB/PVLDB",
+    "name": "International Conference on Very Large Databases",
+    "rank": 4,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA032",
+    "abbr": "CRYPTO",
+    "name": "International Cryptology Conference",
+    "rank": 4,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA033",
+    "abbr": "IJCAI",
+    "name": "International Joint Conference on Artificial Intelligence",
+    "rank": 4,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA034",
+    "abbr": "ISCA",
+    "name": "International Symposium on Computer Architecture",
+    "rank": 4,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA035",
+    "abbr": "WWW",
+    "name": "International World Wide Web Conference",
+    "rank": 4,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA036",
+    "abbr": "PLDI",
+    "name": "SIGPLAN Conference on Programming Language Design and Implementation",
+    "rank": 4,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA037",
+    "abbr": "POPL",
+    "name": "Symposium on Principles of Programming Languages",
+    "rank": 4,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA038",
+    "abbr": "NSDI",
+    "name": "USENIX Symposium on Networked Systems Design and Implementation",
+    "rank": 4,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA039",
+    "abbr": "OSDI",
+    "name": "USENIX Symposium on Operating Systems Design and Implementation",
+    "rank": 4,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA040",
+    "abbr": "CSCW",
+    "name": "ACM Conference on Computer-Supported Cooperative Work",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA041",
+    "abbr": "SenSys",
+    "name": "ACM Conference on Embedded Networked Sensor Systems",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA042",
+    "abbr": "CIKM",
+    "name": "ACM Conference on Information and Knowledge Management",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA043",
+    "abbr": "MobiSys",
+    "name": "ACM International Conference on Mobile Systems, Application and Services",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA044",
+    "abbr": "WSDM",
+    "name": "ACM International Conference on Web Search and Data Mining",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA045",
+    "abbr": "UbiComp",
+    "name": "ACM International Joint Conference on Pervasive and Ubiquitous Computing",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA046",
+    "abbr": "MobiHoc",
+    "name": "ACM International Symposium on Mobile Ad Hoc Networking and Computing",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA047",
+    "abbr": "SIGMETRICS",
+    "name": "ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA048",
+    "abbr": "PPoPP",
+    "name": "ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA049",
+    "abbr": "SPAA",
+    "name": "ACM Symposium on Parallelism in Algorithms and Architectures",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA050",
+    "abbr": "PODS",
+    "name": "ACM Symposium on Principles of Database Systems",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA051",
+    "abbr": "PODC",
+    "name": "ACM Symposium on Principles of Distributed Computing",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA052",
+    "abbr": "IPSN",
+    "name": "ACM/IEEE Information Processing in Sensor Networks",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA053",
+    "abbr": "SC",
+    "name": "ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA054",
+    "abbr": "LICS",
+    "name": "ACM/IEEE Symposium on Logic in Computer Science",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA055",
+    "abbr": "SODA",
+    "name": "ACM-SIAM Symposium on Discrete Algorithms",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA056",
+    "abbr": "COLT",
+    "name": "Annual Conference on Computational Learning Theory",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA057",
+    "abbr": "UAI",
+    "name": "Conference on Uncertainty in Artificial Intelligence",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA058",
+    "abbr": "DAC",
+    "name": "Design Automation Conference",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA059",
+    "abbr": "EMNLP",
+    "name": "Empirical Methods in Natural Language Processing",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA060",
+    "abbr": "ICDE",
+    "name": "IEEE International Conference on Data Engineering",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA061",
+    "abbr": "ICDM",
+    "name": "IEEE International Conference on Data Mining",
+    "rank": 3,
+    "page": 2,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA062",
+    "abbr": "ICDCS",
+    "name": "IEEE International Conference on Distributed Computing Systems",
+    "rank": 3,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA063",
+    "abbr": "PerCom",
+    "name": "IEEE International Conference on Pervasive Computing and Communications",
+    "rank": 3,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA064",
+    "abbr": "ASE",
+    "name": "IEEE/ACM International Conference on Automated Software Engineering",
+    "rank": 3,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA065",
+    "abbr": "ICCAD",
+    "name": "IEEE/ACM International Conference on Computer-Aided Design",
+    "rank": 3,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA066",
+    "abbr": "CoNEXT",
+    "name": "International Conference on emerging Networking EXperiments and Technologies",
+    "rank": 3,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA067",
+    "abbr": "PACT",
+    "name": "International Conference on Parallel Architectures and Compilation Techniques",
+    "rank": 3,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA068",
+    "abbr": "KR",
+    "name": "International Conference on Principles of Knowledge Representation and Reasoning",
+    "rank": 3,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA069",
+    "abbr": "ATC",
+    "name": "USENIX Annual Technical Conference",
+    "rank": 3,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA070",
+    "abbr": "FAST",
+    "name": "USENIX Conference on File and Storage Technologies",
+    "rank": 3,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA071",
+    "abbr": "Security",
+    "name": "USENIX Security Symposium",
+    "rank": 3,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA072",
+    "abbr": "SoCG",
+    "name": "(ACM) Annual Symposium on Computational Geometry",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA073",
+    "abbr": "CCC",
+    "name": "(IEEE Conference on) Computational Complexity Conference",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA074",
+    "abbr": "ACSAC",
+    "name": "ACM Annual Computer Security Applications Conference",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA075",
+    "abbr": "EMSOFT",
+    "name": "ACM Conference on Embedded Software",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA076",
+    "abbr": "IUI",
+    "name": "ACM International Conference on Intelligent User Interfaces",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA077",
+    "abbr": "ICS",
+    "name": "ACM International Conference on Supercomputing",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA078",
+    "abbr": "ISSTA",
+    "name": "ACM International Symposium on Software Testing and Analysis",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA079",
+    "abbr": "IMC",
+    "name": "ACM Internet Measurement Conference",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA080",
+    "abbr": "LCTES",
+    "name": "ACM SIGPLAN/SIGBED Conference on Languages, Compilers and Tools for Embedded Systems",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA081",
+    "abbr": "UIST",
+    "name": "ACM Symposium on User Interface Software and Technology",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA082",
+    "abbr": "MODELS",
+    "name": "ACM/IEEE International Conference on Model Driven Engineering Languages and Systems",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA083",
+    "abbr": "MIDDLEWARE",
+    "name": "ACM/IFIP/USENIX International Middleware Conference",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA084",
+    "abbr": "CogSci",
+    "name": "Annual Meeting of the Cognitive Science Society",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA085",
+    "abbr": "NAACL/HLT",
+    "name": "Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA086",
+    "abbr": "CVPR (Spotlight)",
+    "name": "Conference on Computer Vision and Pattern Recognition (Spotlight)",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA087",
+    "abbr": "NIPS (Spotlight)",
+    "name": "Conference on Neural Information Processing Systems (Spotlight)",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA088",
+    "abbr": "DATE",
+    "name": "Design Automation and Test in Europe Conference",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA089",
+    "abbr": "Eurographics",
+    "name": "Eurographics",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA090",
+    "abbr": "EACL",
+    "name": "European Association for Computational Linguistics",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA091",
+    "abbr": "EuroSys",
+    "name": "European Conference on Computer Systems",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA092",
+    "abbr": "ECCV",
+    "name": "European Conference on Computer Vision",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA093",
+    "abbr": "ECOOP",
+    "name": "European Conference on Object Oriented Programming",
+    "rank": 2,
+    "page": 3,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA094",
+    "abbr": "ESA",
+    "name": "European Symposium on Algorithms",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA095",
+    "abbr": "ESOP",
+    "name": "European Symposium on Programming",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA096",
+    "abbr": "ESORICS",
+    "name": "European Symposium on Research in Computer Security",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA097",
+    "abbr": "ICNP",
+    "name": "IEEE International Conference on Network Protocols",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA098",
+    "abbr": "ICSME(ICSM)",
+    "name": "IEEE International Conference on Software Maintenance and Evolution",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA099",
+    "abbr": "ICWS",
+    "name": "IEEE International Conference on Web Services",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA100",
+    "abbr": "IPDPS",
+    "name": "IEEE International Parallel and Distributed Processing Symposium",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA101",
+    "abbr": "RE",
+    "name": "IEEE International Requirements Engineering Conference",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA102",
+    "abbr": "HPDC",
+    "name": "IEEE International Symposium on High Performance Distributed Computing",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA103",
+    "abbr": "RTAS",
+    "name": "IEEE Real-Time and Embedded Technology and Applications Symposium",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA104",
+    "abbr": "MASCOTS",
+    "name": "IEEE Symposium Model Analysis and Simulation of Computer and Telecommunications Systems",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA105",
+    "abbr": "VR",
+    "name": "IEEE Virtual Reality Conference",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA106",
+    "abbr": "DSN",
+    "name": "IEEE/IFIP International Conference on Dependable Systems and Networks",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA107",
+    "abbr": "PERFORMANCE",
+    "name": "IFIP WG 7.3 International Symposium on Computer Performance, Modeling, Measurements and Evaluation",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA108",
+    "abbr": "ICALP",
+    "name": "International Colloquium on Automata, Languages and Programming",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA109",
+    "abbr": "AAMAS",
+    "name": "International Conference on Autonomous Agents and Multi-agent Systems",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA110",
+    "abbr": "CC",
+    "name": "International Conference on Compiler Construction",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA111",
+    "abbr": "CASES",
+    "name": "International Conference on Compilers, Architecture, and Synthesis for Embedded Systems",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA112",
+    "abbr": "COLING",
+    "name": "International Conference on Computational Linguistics",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA113",
+    "abbr": "ICCV(Spotlight)",
+    "name": "International Conference on Computer Vision (Spotlight)",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA114",
+    "abbr": "EDBT",
+    "name": "International Conference on Extending Database Technology",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA115",
+    "abbr": "ICFP",
+    "name": "International Conference on Functional Programming",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA116",
+    "abbr": "CODES",
+    "name": "International Conference on Hardware/Software Codesign and System Synthesis",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA117",
+    "abbr": "ICPP",
+    "name": "International Conference on Parallel Processing",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA118",
+    "abbr": "ASIACRYPT",
+    "name": "International Conference on the Theory and Application of Cryptology and Information Security",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA119",
+    "abbr": "TACAS",
+    "name": "International Conference on Tools and Algorithms for Construction and Analysis of Systems",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA120",
+    "abbr": "ISWC",
+    "name": "International Semantic Web Conference",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA121",
+    "abbr": "CGO",
+    "name": "International Symposium on Code Generation and Optimization",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA122",
+    "abbr": "DISC",
+    "name": "International Symposium on Distributed Computing",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA123",
+    "abbr": "RAID",
+    "name": "International Symposium on Recent Advances in Intrusion Detection",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA124",
+    "abbr": "NDSS",
+    "name": "Network and Distributed System Security Symposium",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA125",
+    "abbr": "PG",
+    "name": "Pacific Conference on Computer Graphics and Applications",
+    "rank": 2,
+    "page": 4,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA126",
+    "abbr": "RSS",
+    "name": "Robotics: Science and Systems Conference",
+    "rank": 2,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA127",
+    "abbr": "SDM",
+    "name": "SIAM International Conference on Data Mining",
+    "rank": 2,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA128",
+    "abbr": "RecSys",
+    "name": "ACM Conference on Recommender Systems",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA129",
+    "abbr": "ICMR",
+    "name": "ACM International Conference on Multimedia Retrieval (Former ACM International Conference on Image and Video Retrieval)",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA130",
+    "abbr": "NOSSDAV",
+    "name": "ACM Network and Operating System Support for Digital Audio and Video",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA131",
+    "abbr": "SAC",
+    "name": "ACM SIGAPP Symposium on Applied Computing",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA132",
+    "abbr": "i3DG",
+    "name": "ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA133",
+    "abbr": "VEE",
+    "name": "ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA134",
+    "abbr": "SOCC",
+    "name": "ACM Symposium on Cloud Computing",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA135",
+    "abbr": "ASIACCS",
+    "name": "ACM Symposium on Information, Computer and Communications Security",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA136",
+    "abbr": "VRST",
+    "name": "ACM Symposium on Virtual Reality Software and Technology",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA137",
+    "abbr": "ANCS",
+    "name": "ACM/IEEE Symposium on Architectures for Networking and Communications Systems",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA138",
+    "abbr": "ACCV",
+    "name": "Asian Conference on Computer Vision",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA139",
+    "abbr": "CSEET",
+    "name": "Conference on Software Engineering Education and Training",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA140",
+    "abbr": "SGP",
+    "name": "Eurographics symposium on Geometry Processing",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA141",
+    "abbr": "ECRTS",
+    "name": "Euromicro Conference on Real-Time Systems",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA142",
+    "abbr": "ECAI",
+    "name": "European Conference on Artificial Intelligence",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA143",
+    "abbr": "ECCV(Spotlight)",
+    "name": "European Conference on Computer Vision (Spotlight)",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA144",
+    "abbr": "FC",
+    "name": "Financial Cryptography and Data Security",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA145",
+    "abbr": "GECCO",
+    "name": "Genetic and Evolutionary Computation Conference",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA146",
+    "abbr": "CSF",
+    "name": "IEEE Computer Security Foundation Symposium",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA147",
+    "abbr": "BIBM",
+    "name": "IEEE Conference on Bioinformatics and Biomedicine",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA148",
+    "abbr": "InfoVis",
+    "name": "IEEE Conference on Information Visualization",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA149",
+    "abbr": "AVSS",
+    "name": "IEEE International Conference on Advanced Video and Signal-Based Surveillance",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA150",
+    "abbr": "CLOUD",
+    "name": "IEEE International Conference on Cloud Computing",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA151",
+    "abbr": "CLUSTER",
+    "name": "IEEE International Conference on Cluster Computing",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA152",
+    "abbr": "ICCD",
+    "name": "IEEE International Conference on Computer Design",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA153",
+    "abbr": "HiPC",
+    "name": "IEEE International Conference on High Performance Computing, Data, and Analytics",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA154",
+    "abbr": "MSST",
+    "name": "IEEE International Conference on Massive Storage Systems and Technology",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA155",
+    "abbr": "MASS",
+    "name": "IEEE International Conference on Mobile Adhoc and Sensor Systems",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA156",
+    "abbr": "ICPR",
+    "name": "IEEE International Conference on Pattern Recognition",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA157",
+    "abbr": "ICRA",
+    "name": "IEEE International Conference on Robotics and Automation",
+    "rank": 1,
+    "page": 5,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA158",
+    "abbr": "SECON",
+    "name": "IEEE International Conference on Sensing, Communication, and Networking",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA159",
+    "abbr": "ICST",
+    "name": "IEEE International Conference on Software Testing, Verification and Validation",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA160",
+    "abbr": "ISLPED",
+    "name": "IEEE International Symposium on Low-Power Electronics and Design",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA161",
+    "abbr": "ISMAR",
+    "name": "IEEE International Symposium on Mixed and Augmented Reality",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA162",
+    "abbr": "ISPASS",
+    "name": "IEEE International Symposium on Performance Analysis of Systems and Software",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA163",
+    "abbr": "ISSRE",
+    "name": "IEEE International Symposium on Software Reliability Engineering",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA164",
+    "abbr": "IISWC",
+    "name": "IEEE International Symposium on Workload Characterization",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA165",
+    "abbr": "SRDS",
+    "name": "IEEE Symposium on Reliable Distributed Systems",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA166",
+    "abbr": "CCGrid",
+    "name": "IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA167",
+    "abbr": "NOMS",
+    "name": "IEEE/IFIP Network Operations and Management Symposium",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA168",
+    "abbr": "SEC(IFIP-SEC)",
+    "name": "IFIP International Information Security and Privacy Conference",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA169",
+    "abbr": "ISMB",
+    "name": "Intelligent Systems for Molecular Biology",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA170",
+    "abbr": "FASE",
+    "name": "International Conf. on Fundamental Approaches to Software Engineering",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA171",
+    "abbr": "ICSOC",
+    "name": "International Conf. on Service Oriented Computing",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA172",
+    "abbr": "AISTATS",
+    "name": "International Conference on Artificial Intelligence and Statistics",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA173",
+    "abbr": "ICAPS",
+    "name": "International Conference on Automated Planning and Scheduling",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA174",
+    "abbr": "CONCUR",
+    "name": "International Conference on Concurrency Theory",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA175",
+    "abbr": "DASFAA",
+    "name": "International Conference on Database Systems for Advanced Applications",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA176",
+    "abbr": "HiPEAC",
+    "name": "International Conference on High Performance and Embedded Architectures and Compilers",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA177",
+    "abbr": "ITS",
+    "name": "International Conference on Intelligent Tutoring Systems",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA178",
+    "abbr": "ICLP",
+    "name": "International Conference on Logic Programming",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA179",
+    "abbr": "MICCAI",
+    "name": "International Conference on Medical Image Computing and Computer Assisted Interventions",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA180",
+    "abbr": "Europar",
+    "name": "International European Conference on Parallel and Distributed Computing",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA181",
+    "abbr": "IJCAR",
+    "name": "International Joint Conference on Automated Reasoning",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA182",
+    "abbr": "SAS",
+    "name": "International Static Analysis Symposium",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA183",
+    "abbr": "ISAAC",
+    "name": "International Symposium on Algorithms and Computation",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA184",
+    "abbr": "STACS",
+    "name": "International Symposium on Theoretical Aspects of Computer Science",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA185",
+    "abbr": "PAKDD",
+    "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA186",
+    "abbr": "RECOMB",
+    "name": "Research in Computational Molecular Biology",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA187",
+    "abbr": "SOUPS",
+    "name": "Symposium On Usable Privacy and Security",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "code": "BKCSA188",
+    "abbr": "TCC",
+    "name": "Theory of Cryptography Conference",
+    "rank": 1,
+    "page": 6,
+    "category": "bk",
+    "source": "첨부 BK21+ Computer Science 목록 (현행 인정 여부 미확인)"
+  },
+  {
+    "abbr": "IEDM",
+    "name": "IEDM",
+    "category": "focus",
+    "field": "반도체 소자",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "VLSI Symposium",
+    "name": "VLSI Symposium",
+    "category": "focus",
+    "field": "반도체 소자",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "DRC",
+    "name": "DRC",
+    "category": "focus",
+    "field": "반도체 소자",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ESSDERC",
+    "name": "ESSDERC",
+    "category": "focus",
+    "field": "반도체 소자",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IEEE EDTM",
+    "name": "IEEE EDTM",
+    "category": "focus",
+    "field": "반도체 소자",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "SISPAD",
+    "name": "SISPAD",
+    "category": "focus",
+    "field": "반도체 소자",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IWJT",
+    "name": "IWJT",
+    "category": "focus",
+    "field": "반도체 소자",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IITC",
+    "name": "IITC",
+    "category": "focus",
+    "field": "반도체 공정",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "SPIE Advanced Lithography",
+    "name": "SPIE Advanced Lithography",
+    "category": "focus",
+    "field": "반도체 공정",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ALD",
+    "name": "ALD",
+    "category": "focus",
+    "field": "반도체 공정",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ICMTS",
+    "name": "ICMTS",
+    "category": "focus",
+    "field": "반도체 공정",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "AVS Symposium",
+    "name": "AVS Symposium",
+    "category": "focus",
+    "field": "반도체 공정",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ISSCC",
+    "name": "ISSCC",
+    "category": "focus",
+    "field": "반도체 회로",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "CICC",
+    "name": "CICC",
+    "category": "focus",
+    "field": "반도체 회로",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "A-SSCC",
+    "name": "A-SSCC",
+    "category": "focus",
+    "field": "반도체 회로",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ESSCIRC",
+    "name": "ESSCIRC",
+    "category": "focus",
+    "field": "반도체 회로",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ESSERC",
+    "name": "ESSERC",
+    "category": "focus",
+    "field": "반도체 회로",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ISCAS",
+    "name": "ISCAS",
+    "category": "focus",
+    "field": "반도체 회로",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "RFIC",
+    "name": "RFIC",
+    "category": "focus",
+    "field": "반도체 회로",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IMS",
+    "name": "IMS",
+    "category": "focus",
+    "field": "반도체 회로",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "VLSI-DAT",
+    "name": "VLSI-DAT",
+    "category": "focus",
+    "field": "반도체 회로",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ITC",
+    "name": "ITC",
+    "category": "focus",
+    "field": "TFT",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "AM-FPD",
+    "name": "AM-FPD",
+    "category": "focus",
+    "field": "TFT",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "EuroDisplay",
+    "name": "EuroDisplay",
+    "category": "focus",
+    "field": "TFT",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "SID Display Week",
+    "name": "SID Display Week",
+    "category": "focus",
+    "field": "디스플레이",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "Display Week",
+    "name": "Display Week",
+    "category": "focus",
+    "field": "디스플레이",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IMID",
+    "name": "IMID",
+    "category": "focus",
+    "field": "디스플레이",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IDW",
+    "name": "IDW",
+    "category": "focus",
+    "field": "디스플레이",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ICDT",
+    "name": "ICDT",
+    "category": "focus",
+    "field": "디스플레이",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "Asia Display",
+    "name": "Asia Display",
+    "category": "focus",
+    "field": "디스플레이",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ICNS",
+    "name": "ICNS",
+    "category": "focus",
+    "field": "Micro LED",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "Photonics West",
+    "name": "Photonics West",
+    "category": "focus",
+    "field": "Micro LED",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IEEE SENSORS",
+    "name": "IEEE SENSORS",
+    "category": "focus",
+    "field": "센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "Transducers",
+    "name": "Transducers",
+    "category": "focus",
+    "field": "센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IEEE MEMS",
+    "name": "IEEE MEMS",
+    "category": "focus",
+    "field": "센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "Eurosensors",
+    "name": "Eurosensors",
+    "category": "focus",
+    "field": "센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IEEE FLEPS",
+    "name": "IEEE FLEPS",
+    "category": "focus",
+    "field": "센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IEEE INERTIAL",
+    "name": "IEEE INERTIAL",
+    "category": "focus",
+    "field": "센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IEEE IUS",
+    "name": "IEEE IUS",
+    "category": "focus",
+    "field": "센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "Biosensors",
+    "name": "Biosensors",
+    "category": "focus",
+    "field": "바이오센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IEEE BioCAS",
+    "name": "IEEE BioCAS",
+    "category": "focus",
+    "field": "바이오센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "MicroTAS",
+    "name": "MicroTAS",
+    "category": "focus",
+    "field": "바이오센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IEEE EMBC",
+    "name": "IEEE EMBC",
+    "category": "focus",
+    "field": "바이오센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "AICAS",
+    "name": "AICAS",
+    "category": "focus",
+    "field": "AI 반도체",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IEEE AI Hardware",
+    "name": "IEEE AI Hardware",
+    "category": "focus",
+    "field": "AI 반도체",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "Hot Chips",
+    "name": "Hot Chips",
+    "category": "focus",
+    "field": "AI 반도체",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ICCAD",
+    "name": "ICCAD",
+    "category": "focus",
+    "field": "AI 반도체",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "DAC",
+    "name": "DAC",
+    "category": "focus",
+    "field": "AI 반도체",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "DATE",
+    "name": "DATE",
+    "category": "focus",
+    "field": "AI 반도체",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ISCA",
+    "name": "ISCA",
+    "category": "focus",
+    "field": "AI 반도체",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "MICRO",
+    "name": "MICRO",
+    "category": "focus",
+    "field": "AI 반도체",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "HPCA",
+    "name": "HPCA",
+    "category": "focus",
+    "field": "AI 반도체",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IEEE VR",
+    "name": "IEEE VR",
+    "category": "focus",
+    "field": "AR·VR",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ISMAR",
+    "name": "ISMAR",
+    "category": "focus",
+    "field": "AR·VR",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "SIGGRAPH",
+    "name": "SIGGRAPH",
+    "category": "focus",
+    "field": "AR·VR",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "MRS Spring Meeting",
+    "name": "MRS Spring Meeting",
+    "category": "focus",
+    "field": "소재 및 나노 기술",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "MRS Fall Meeting",
+    "name": "MRS Fall Meeting",
+    "category": "focus",
+    "field": "소재 및 나노 기술",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "E-MRS",
+    "name": "E-MRS",
+    "category": "focus",
+    "field": "소재 및 나노 기술",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IEEE NANO",
+    "name": "IEEE NANO",
+    "category": "focus",
+    "field": "소재 및 나노 기술",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IWN",
+    "name": "IWN",
+    "category": "focus",
+    "field": "소재 및 나노 기술",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ICMCTF",
+    "name": "ICMCTF",
+    "category": "focus",
+    "field": "소재 및 나노 기술",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ICMAT",
+    "name": "ICMAT",
+    "category": "focus",
+    "field": "소재 및 나노 기술",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "FLEX",
+    "name": "FLEX",
+    "category": "focus",
+    "field": "유연전자소자",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "LOPEC",
+    "name": "LOPEC",
+    "category": "focus",
+    "field": "유연전자소자",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IEEE IFETC",
+    "name": "IEEE IFETC",
+    "category": "focus",
+    "field": "유연전자소자",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "CLEO",
+    "name": "CLEO",
+    "category": "focus",
+    "field": "광전자 및 광센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "OFC",
+    "name": "OFC",
+    "category": "focus",
+    "field": "광전자 및 광센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ECOC",
+    "name": "ECOC",
+    "category": "focus",
+    "field": "광전자 및 광센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "SPIE Optics + Photonics",
+    "name": "SPIE Optics + Photonics",
+    "category": "focus",
+    "field": "광전자 및 광센서",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IRPS",
+    "name": "IRPS",
+    "category": "focus",
+    "field": "반도체 신뢰성",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "IIRW",
+    "name": "IIRW",
+    "category": "focus",
+    "field": "반도체 신뢰성",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ESREF",
+    "name": "ESREF",
+    "category": "focus",
+    "field": "반도체 신뢰성",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "ISTFA",
+    "name": "ISTFA",
+    "category": "focus",
+    "field": "반도체 신뢰성",
+    "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  }
+]
