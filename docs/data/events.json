@@ -265,6 +265,18 @@
     "organizer": "IDEC"
   },
   {
+    "title": "Gallium Nitride: The Next Silicon? &#8211; Nadine Collaert | SSCS December Technical Webinar",
+    "source_url": "https://sscs.ieee.org/events/category/upcoming-events/",
+    "start": "2026-12-07",
+    "end": "2026-12-07",
+    "location": "Online",
+    "kind": "학회",
+    "fields": [
+      "AI 반도체"
+    ],
+    "origin": "structured feed"
+  },
+  {
     "title": "2026 AMD 리뷰 워크숍",
     "source_url": "https://k-ids.or.kr/Conference/ConferenceView.asp?AC=0&B_CATE=bbc1&CODE=CC20261102",
     "start": "2026-12-10",
@@ -389,6 +401,30 @@
     "origin": "legacy V3.1 import — review source"
   },
   {
+    "title": "General-Purpose AI Agents for Analog and Mixed-Signal IC Design w/ Zhishuai Zhang | SSCS Webinars for Young Excellence",
+    "source_url": "https://sscs.ieee.org/events/category/young-professionals/",
+    "start": "2027-01-05",
+    "end": "2027-01-05",
+    "location": "Online",
+    "kind": "학회",
+    "fields": [
+      "AI 반도체"
+    ],
+    "origin": "structured feed"
+  },
+  {
+    "title": "OJ-SSCS Webinar: The Interconnect Bottleneck: Chiplet, 3D-IC, and Photonic Paths to Next-Generation Compute | SSCS January Technical Webinar",
+    "source_url": "https://sscs.ieee.org/events/category/upcoming-events/",
+    "start": "2027-01-13",
+    "end": "2027-01-13",
+    "location": "Online",
+    "kind": "학회",
+    "fields": [
+      "AI 반도체"
+    ],
+    "origin": "structured feed"
+  },
+  {
     "title": "KCS 2027 — 사전등록",
     "source_url": "https://www.kcsconference.org/2027/registration.html",
     "start": "2027-01-15",
@@ -498,6 +534,54 @@
     "origin": "legacy V3.1 import — review source"
   },
   {
+    "title": "Networking Bingo &#8211; SSCS Women in Circuits | ISSCC 2027",
+    "source_url": "https://sscs.ieee.org/events/category/women-in-circuits/",
+    "start": "2027-02-14",
+    "end": "2027-02-14",
+    "location": "San Francisco Marriott Marquis &#8211; Room: SoMa Room, 780 Mission St, San Francisco, CA, United States",
+    "kind": "학회",
+    "fields": [
+      "AI 반도체"
+    ],
+    "origin": "structured feed"
+  },
+  {
+    "title": "The Analog Renaissance: Can Unconventional Physical Computing and Optical Interconnects define the next strategic leap? &#8211; SSCS Women in Circuits Evening Panel | ISSCC 2027",
+    "source_url": "https://sscs.ieee.org/events/category/women-in-circuits/",
+    "start": "2027-02-14",
+    "end": "2027-02-14",
+    "location": "San Francisco Marriott Marquis &#8211; Room: SoMa Room, 780 Mission St, San Francisco, CA, United States",
+    "kind": "학회",
+    "fields": [
+      "AI 반도체"
+    ],
+    "origin": "structured feed"
+  },
+  {
+    "title": "The Inner Node: Meditation, Resilience, and Well-Being by Women in Technology w/ Dr. Vinita Deodhar &#8211; SSCS Women in Circuits Retreat | ISSCC 2027",
+    "source_url": "https://sscs.ieee.org/events/category/women-in-circuits/",
+    "start": "2027-02-14",
+    "end": "2027-02-14",
+    "location": "San Francisco Marriott Marquis &#8211; Room: SoMa Room, 780 Mission St, San Francisco, CA, United States",
+    "kind": "학회",
+    "fields": [
+      "AI 반도체"
+    ],
+    "origin": "structured feed"
+  },
+  {
+    "title": "Committee Luncheon – SSCS Women in Circuits | ISSCC 2027",
+    "source_url": "https://sscs.ieee.org/events/category/women-in-circuits/",
+    "start": "2027-02-15",
+    "end": "2027-02-15",
+    "location": "San Francisco Marriott Marquis &#8211; Room: Pacific A/B, 780 Mission St, San Francisco, CA, United States",
+    "kind": "학회",
+    "fields": [
+      "AI 반도체"
+    ],
+    "origin": "structured feed"
+  },
+  {
     "title": "ITC 2027 — Early Bird registration",
     "source_url": "https://www.itc2027.org/registration",
     "start": "2027-02-15",
@@ -510,6 +594,18 @@
       "TFT 집적회로"
     ],
     "origin": "manual import"
+  },
+  {
+    "title": "Young Professionals &#038; Students Mentoring &#038; Networking Session | ISSCC 2027",
+    "source_url": "https://sscs.ieee.org/events/category/young-professionals/",
+    "start": "2027-02-16",
+    "end": "2027-02-16",
+    "location": "San Francisco Marriott Marquis &#8211; Room: Foothill E, 780 Mission Street, San Francisco, CA, United States",
+    "kind": "학회",
+    "fields": [
+      "AI 반도체"
+    ],
+    "origin": "structured feed"
   },
   {
     "title": "SEMICON Korea 2027",
@@ -692,7 +788,7 @@
   },
   {
     "title": "2027 Symposium on VLSI Technology and Circuits",
-    "source_url": "https://www.vlsisymposium.org/authorsguide.html",
+    "source_url": "https://www.vlsisymposium.org/best-student.html",
     "start": "2027-06-20",
     "end": "2027-06-24",
     "location": "Rihga Royal Hotel Kyoto, Japan, Kyoto, JP",
