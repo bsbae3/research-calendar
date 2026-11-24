@@ -1,7 +1,7 @@
 [
   {
     "url": "https://www.mrs.org/meetings-events/annual-meetings/",
-    "checked": "2026-11-24T08:18:21.904287+00:00",
+    "checked": "2026-11-24T09:14:39.409751+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -10,29 +10,29 @@
   },
   {
     "url": "https://www.idw.or.jp/",
-    "checked": "2026-11-24T08:18:23.058909+00:00",
+    "checked": "2026-11-24T09:14:40.483783+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://www.aspdac.com/aspdac2027/index.html",
-    "checked": "2026-11-24T08:18:30.402583+00:00",
+    "checked": "2026-11-24T09:14:49.173161+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://www.kcsconference.org/2027/venue.html",
-    "checked": "2026-11-24T08:18:34.163557+00:00",
+    "checked": "2026-11-24T09:14:53.444000+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://www.isscc.org/",
-    "checked": "2026-11-24T08:18:37.224084+00:00",
-    "count": 0,
+    "checked": "2026-11-24T09:14:56.631498+00:00",
+    "count": 1,
     "status": "fetched",
     "errors": [
       "HTTP Error 404: Not Found"
@@ -40,14 +40,14 @@
   },
   {
     "url": "https://semiconkorea.org/ko/about/overview",
-    "checked": "2026-11-24T08:18:52.193758+00:00",
+    "checked": "2026-11-24T09:15:09.309332+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://www.irps.org/future-conferences",
-    "checked": "2026-11-24T08:18:52.282477+00:00",
+    "checked": "2026-11-24T09:15:09.368718+00:00",
     "count": 0,
     "status": "fetched",
     "errors": [
@@ -58,59 +58,58 @@
   },
   {
     "url": "https://psstprconference.com/",
-    "checked": "2026-11-24T08:19:10.314107+00:00",
+    "checked": "2026-11-24T09:15:23.014043+00:00",
     "count": 1,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://www.touchtaiwan.com/en/",
-    "checked": "2026-11-24T08:19:25.059785+00:00",
+    "checked": "2026-11-24T09:15:35.874575+00:00",
     "count": 0,
     "status": "fetched",
-    "errors": []
+    "errors": [
+      "The read operation timed out"
+    ]
   },
   {
     "url": "https://www.displayweek.org/exhibitors/ex-faq/",
-    "checked": "2026-11-24T08:19:45.035477+00:00",
+    "checked": "2026-11-24T09:16:11.054790+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://ald2027.avs.org/schedule/",
-    "checked": "2026-11-24T08:19:55.927083+00:00",
+    "checked": "2026-11-24T09:16:20.516328+00:00",
     "count": 0,
-    "status": "fetched",
+    "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://www.vlsisymposium.org/",
-    "checked": "2026-11-24T08:20:14.803124+00:00",
-    "count": 8,
-    "status": "fetched",
-    "errors": [
-      "HTTP Error 404: Not Found",
-      "HTTP Error 404: Not Found"
-    ]
+    "checked": "2026-11-24T09:16:32.561477+00:00",
+    "count": 0,
+    "status": "robots unavailable",
+    "errors": []
   },
   {
     "url": "https://dac.com/2027/",
-    "checked": "2026-11-24T08:20:30.806927+00:00",
+    "checked": "2026-11-24T09:16:44.689279+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://ieee-iedm.org/about/future-conferences/",
-    "checked": "2026-11-24T08:20:49.524102+00:00",
+    "checked": "2026-11-24T09:16:58.462114+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://www.sid.org/",
-    "checked": "2026-11-24T08:21:04.893974+00:00",
+    "checked": "2026-11-24T09:17:11.999529+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -119,21 +118,21 @@
   },
   {
     "url": "https://eds.ieee.org/",
-    "checked": "2026-11-24T08:21:08.426686+00:00",
+    "checked": "2026-11-24T09:17:13.868780+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://spie.org/",
-    "checked": "2026-11-24T08:21:41.213369+00:00",
+    "checked": "2026-11-24T09:17:38.640528+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://www.mrs.org/",
-    "checked": "2026-11-24T08:21:44.613431+00:00",
+    "checked": "2026-11-24T09:17:40.667954+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -142,14 +141,14 @@
   },
   {
     "url": "https://sscs.ieee.org/",
-    "checked": "2026-11-24T08:21:45.733724+00:00",
-    "count": 12,
+    "checked": "2026-11-24T09:17:41.721909+00:00",
+    "count": 19,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://ieee-cas.org/",
-    "checked": "2026-11-24T08:22:15.120969+00:00",
+    "checked": "2026-11-24T09:18:07.160047+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -158,56 +157,60 @@
   },
   {
     "url": "https://www.kids.or.kr/",
-    "checked": "2026-11-24T08:22:16.412386+00:00",
+    "checked": "2026-11-24T09:18:08.278866+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://www.itc2027.org/",
-    "checked": "2026-11-24T08:22:17.413737+00:00",
+    "checked": "2026-11-24T09:18:09.573036+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://www.displayweek.org/program/authors-presenters/",
-    "checked": "2026-11-24T08:22:46.911974+00:00",
+    "checked": "2026-11-24T09:18:35.053462+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://k-ids.or.kr/Conference/Conferencelist_new.asp?AC=0&B_CATE=",
-    "checked": "2026-11-24T08:22:56.742708+00:00",
+    "checked": "2026-11-24T09:18:46.082095+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://k-ids.or.kr/Conference/ConferenceView.asp?AC=0&B_CATE=bbc1&CODE=CC20261102",
-    "checked": "2026-11-24T08:23:59.747392+00:00",
+    "checked": "2026-11-24T09:19:18.420103+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://kps.or.kr/",
-    "checked": "2026-11-24T08:25:08.381358+00:00",
+    "checked": "2026-11-24T09:19:50.968497+00:00",
     "count": 0,
-    "status": "fetched",
-    "errors": []
+    "status": "no dates",
+    "errors": [
+      "size or external redirect"
+    ]
   },
   {
     "url": "https://kvs.or.kr/",
-    "checked": "2026-11-24T08:25:11.272386+00:00",
+    "checked": "2026-11-24T09:19:55.768496+00:00",
     "count": 0,
-    "status": "fetched",
-    "errors": []
+    "status": "no dates",
+    "errors": [
+      "size or external redirect"
+    ]
   },
   {
     "url": "https://mrs-k.or.kr/",
-    "checked": "2026-11-24T08:25:13.668882+00:00",
+    "checked": "2026-11-24T09:20:00.726147+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -216,7 +219,7 @@
   },
   {
     "url": "https://kieeme.or.kr/",
-    "checked": "2026-11-24T08:25:19.566552+00:00",
+    "checked": "2026-11-24T09:20:06.905476+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -225,77 +228,79 @@
   },
   {
     "url": "https://osk.or.kr/",
-    "checked": "2026-11-24T08:25:25.041187+00:00",
+    "checked": "2026-11-24T09:20:14.115933+00:00",
     "count": 0,
-    "status": "fetched",
-    "errors": []
+    "status": "no dates",
+    "errors": [
+      "size or external redirect"
+    ]
   },
   {
     "url": "https://ksia.or.kr/",
-    "checked": "2026-11-24T08:25:27.721716+00:00",
+    "checked": "2026-11-24T09:20:19.212244+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://nnfc.re.kr/",
-    "checked": "2026-11-24T08:25:28.294487+00:00",
+    "checked": "2026-11-24T09:20:19.998264+00:00",
     "count": 0,
     "status": "no dates",
     "errors": []
   },
   {
     "url": "https://etri.re.kr/",
-    "checked": "2026-11-24T08:25:32.199494+00:00",
+    "checked": "2026-11-24T09:20:22.868514+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://keti.re.kr/",
-    "checked": "2026-11-24T08:25:34.956401+00:00",
+    "checked": "2026-11-24T09:20:25.864089+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://keit.re.kr/",
-    "checked": "2026-11-24T08:25:37.593601+00:00",
-    "count": 0,
+    "checked": "2026-11-24T09:20:28.989057+00:00",
+    "count": 1,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://kaist.ac.kr/",
-    "checked": "2026-11-24T08:26:06.121724+00:00",
+    "checked": "2026-11-24T09:21:02.960941+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://postech.ac.kr/",
-    "checked": "2026-11-24T08:26:08.809330+00:00",
-    "count": 0,
+    "checked": "2026-11-24T09:21:07.924731+00:00",
+    "count": 2,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://snu.ac.kr/",
-    "checked": "2026-11-24T08:26:37.243613+00:00",
-    "count": 0,
+    "checked": "2026-11-24T09:21:40.118176+00:00",
+    "count": 1,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://yonsei.ac.kr/",
-    "checked": "2026-11-24T08:27:07.411312+00:00",
+    "checked": "2026-11-24T09:22:12.355008+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://korea.ac.kr/",
-    "checked": "2026-11-24T08:27:11.016571+00:00",
+    "checked": "2026-11-24T09:22:14.735092+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -304,21 +309,21 @@
   },
   {
     "url": "https://www.skku.edu/",
-    "checked": "2026-11-24T08:27:14.698183+00:00",
-    "count": 0,
+    "checked": "2026-11-24T09:22:18.445743+00:00",
+    "count": 2,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://hanyang.ac.kr/",
-    "checked": "2026-11-24T08:27:41.601378+00:00",
+    "checked": "2026-11-24T09:22:47.402926+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://unist.ac.kr/",
-    "checked": "2026-11-24T08:27:42.182886+00:00",
+    "checked": "2026-11-24T09:22:47.809972+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -327,35 +332,35 @@
   },
   {
     "url": "https://gist.ac.kr/",
-    "checked": "2026-11-24T08:27:48.491842+00:00",
+    "checked": "2026-11-24T09:22:54.339899+00:00",
     "count": 0,
     "status": "no dates",
     "errors": []
   },
   {
     "url": "https://dgist.ac.kr/",
-    "checked": "2026-11-24T08:27:50.253438+00:00",
+    "checked": "2026-11-24T09:22:55.708638+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://cnu.ac.kr/",
-    "checked": "2026-11-24T08:27:50.789160+00:00",
+    "checked": "2026-11-24T09:22:56.470358+00:00",
     "count": 0,
     "status": "no dates",
     "errors": []
   },
   {
     "url": "https://cbnu.ac.kr/",
-    "checked": "2026-11-24T08:27:51.366747+00:00",
+    "checked": "2026-11-24T09:22:57.324875+00:00",
     "count": 0,
-    "status": "robots unavailable",
+    "status": "fetched",
     "errors": []
   },
   {
     "url": "https://hoseo.ac.kr/",
-    "checked": "2026-11-24T08:28:03.956109+00:00",
+    "checked": "2026-11-24T09:23:00.132372+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -364,63 +369,63 @@
   },
   {
     "url": "https://sunmoon.ac.kr/",
-    "checked": "2026-11-24T08:28:10.548035+00:00",
+    "checked": "2026-11-24T09:23:07.054861+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://kongju.ac.kr/",
-    "checked": "2026-11-24T08:28:13.335971+00:00",
+    "checked": "2026-11-24T09:23:10.095276+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://ktech.ac.kr/",
-    "checked": "2026-11-24T08:28:13.793819+00:00",
+    "checked": "2026-11-24T09:23:10.710271+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://ctp.or.kr/",
-    "checked": "2026-11-24T08:28:13.946080+00:00",
+    "checked": "2026-11-24T09:23:10.914483+00:00",
     "count": 0,
     "status": "no dates",
     "errors": []
   },
   {
     "url": "https://cbtp.or.kr/",
-    "checked": "2026-11-24T08:28:14.776135+00:00",
+    "checked": "2026-11-24T09:23:12.346969+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://kist.re.kr/",
-    "checked": "2026-11-24T08:28:15.338200+00:00",
+    "checked": "2026-11-24T09:23:13.350087+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://kriss.re.kr/",
-    "checked": "2026-11-24T08:28:16.164326+00:00",
+    "checked": "2026-11-24T09:23:14.332385+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://kimm.re.kr/",
-    "checked": "2026-11-24T08:28:17.136272+00:00",
+    "checked": "2026-11-24T09:23:15.616976+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://kicet.re.kr/",
-    "checked": "2026-11-24T08:28:29.447218+00:00",
+    "checked": "2026-11-24T09:23:28.010177+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -429,7 +434,7 @@
   },
   {
     "url": "https://kims.re.kr/",
-    "checked": "2026-11-24T08:28:33.930186+00:00",
+    "checked": "2026-11-24T09:23:32.994172+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -438,21 +443,21 @@
   },
   {
     "url": "https://kist.ac.kr/",
-    "checked": "2026-11-24T08:28:37.866169+00:00",
+    "checked": "2026-11-24T09:23:38.223235+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://ajou.ac.kr/",
-    "checked": "2026-11-24T08:28:38.012055+00:00",
+    "checked": "2026-11-24T09:23:38.427808+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://inha.ac.kr/",
-    "checked": "2026-11-24T08:28:50.301419+00:00",
+    "checked": "2026-11-24T09:23:50.856626+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -461,28 +466,28 @@
   },
   {
     "url": "https://pusan.ac.kr/",
-    "checked": "2026-11-24T08:28:54.667316+00:00",
+    "checked": "2026-11-24T09:23:55.212525+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://knu.ac.kr/",
-    "checked": "2026-11-24T08:28:57.935258+00:00",
-    "count": 0,
+    "checked": "2026-11-24T09:23:58.869466+00:00",
+    "count": 2,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://jnu.ac.kr/",
-    "checked": "2026-11-24T08:29:59.527673+00:00",
+    "checked": "2026-11-24T09:26:03.895882+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://jbnu.ac.kr/",
-    "checked": "2026-11-24T08:30:12.154664+00:00",
+    "checked": "2026-11-24T09:26:16.523967+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -491,21 +496,21 @@
   },
   {
     "url": "https://seoultech.ac.kr/",
-    "checked": "2026-11-24T08:30:16.271145+00:00",
+    "checked": "2026-11-24T09:26:20.954468+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://uos.ac.kr/",
-    "checked": "2026-11-24T08:30:44.463634+00:00",
+    "checked": "2026-11-24T09:26:50.672576+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://cau.ac.kr/",
-    "checked": "2026-11-24T08:30:45.298700+00:00",
+    "checked": "2026-11-24T09:26:51.804832+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -514,21 +519,21 @@
   },
   {
     "url": "https://ssu.ac.kr/",
-    "checked": "2026-11-24T08:30:51.941992+00:00",
+    "checked": "2026-11-24T09:26:57.235238+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://sogang.ac.kr/",
-    "checked": "2026-11-24T08:31:29.832878+00:00",
+    "checked": "2026-11-24T09:27:38.423295+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://kookmin.ac.kr/",
-    "checked": "2026-11-24T08:31:30.396439+00:00",
+    "checked": "2026-11-24T09:27:39.234673+00:00",
     "count": 0,
     "status": "no dates",
     "errors": [
@@ -537,76 +542,310 @@
   },
   {
     "url": "https://dankook.ac.kr/",
-    "checked": "2026-11-24T08:31:36.676976+00:00",
+    "checked": "2026-11-24T09:27:46.547200+00:00",
     "count": 0,
     "status": "fetched",
-    "errors": [
-      "<urlopen error timed out>",
-      "<urlopen error timed out>",
-      "<urlopen error timed out>"
-    ]
+    "errors": []
   },
   {
     "url": "https://www.appliedmaterials.com/",
-    "checked": "2026-11-24T08:32:43.486496+00:00",
+    "checked": "2026-11-24T09:28:22.754205+00:00",
     "count": 0,
     "status": "robots unavailable",
     "errors": []
   },
   {
     "url": "https://www.fraunhofer.de/",
-    "checked": "2026-11-24T08:32:43.574110+00:00",
+    "checked": "2026-11-24T09:28:22.792092+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://www.ieee.org/",
-    "checked": "2026-11-24T08:32:46.589146+00:00",
+    "checked": "2026-11-24T09:28:25.037862+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://www.european-mrs.com/",
-    "checked": "2026-11-24T08:32:48.232830+00:00",
+    "checked": "2026-11-24T09:28:26.066836+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://www.idec.or.kr/main/",
-    "checked": "2026-11-24T08:33:19.064812+00:00",
+    "checked": "2026-11-24T09:28:50.729656+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://www.idec.or.kr/edu/schedule/academy/",
-    "checked": "2026-11-24T08:33:43.013401+00:00",
+    "checked": "2026-11-24T09:29:16.244723+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://academy.idec.or.kr/",
-    "checked": "2026-11-24T08:34:04.161783+00:00",
+    "checked": "2026-11-24T09:29:40.715012+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://www.idec.or.kr/boards/notice/list/",
-    "checked": "2026-11-24T08:34:28.376438+00:00",
+    "checked": "2026-11-24T09:30:06.247477+00:00",
     "count": 0,
     "status": "fetched",
     "errors": []
   },
   {
     "url": "https://www.idec.or.kr/edu/info/",
-    "checked": "2026-11-24T08:34:48.698188+00:00",
+    "checked": "2026-11-24T09:30:30.399457+00:00",
     "count": 0,
     "status": "fetched",
+    "errors": []
+  },
+  {
+    "url": "https://calendar.vlsi.kr/",
+    "checked": "2026-11-24T09:30:54.301524+00:00",
+    "count": 0,
+    "status": "no dates",
+    "errors": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://calendar.vlsi.kr/deadlines/cfp",
+    "checked": "2026-11-24T09:30:55.624660+00:00",
+    "count": 0,
+    "status": "no dates",
+    "errors": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://www.wikicfp.com/cfp/",
+    "checked": "2026-11-24T09:30:56.749502+00:00",
+    "count": 0,
+    "status": "robots unavailable",
+    "errors": []
+  },
+  {
+    "url": "https://conferences.ieee.org/conferences_events/conferences/search",
+    "checked": "2026-11-24T09:30:56.763620+00:00",
+    "count": 0,
+    "status": "no dates",
+    "errors": [
+      "HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "url": "https://www.acm.org/conferences",
+    "checked": "2026-11-24T09:30:58.141769+00:00",
+    "count": 0,
+    "status": "no dates",
+    "errors": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://conferencealerts.com/",
+    "checked": "2026-11-24T09:30:59.207459+00:00",
+    "count": 8,
+    "status": "fetched",
+    "errors": [
+      "URL can't contain control characters. '/topic-listing?topic=African Studies' (found at least ' ')"
+    ]
+  },
+  {
+    "url": "https://www.allconferencealert.com/",
+    "checked": "2026-11-24T09:31:15.956381+00:00",
+    "count": 0,
+    "status": "no dates",
+    "errors": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://conferenceindex.org/",
+    "checked": "2026-11-24T09:31:17.048458+00:00",
+    "count": 0,
+    "status": "robots unavailable",
+    "errors": []
+  },
+  {
+    "url": "https://10times.com/",
+    "checked": "2026-11-24T09:31:17.080289+00:00",
+    "count": 0,
+    "status": "no dates",
+    "errors": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://aideadlin.es/",
+    "checked": "2026-11-24T09:31:18.282807+00:00",
+    "count": 0,
+    "status": "fetched",
+    "errors": []
+  },
+  {
+    "url": "https://csconferences.org/",
+    "checked": "2026-11-24T09:31:31.287544+00:00",
+    "count": 0,
+    "status": "fetched",
+    "errors": []
+  },
+  {
+    "url": "https://www.semi.org/en/events",
+    "checked": "2026-11-24T09:31:33.486952+00:00",
+    "count": 0,
+    "status": "robots unavailable",
+    "errors": []
+  },
+  {
+    "url": "https://ieee-sensors.org/",
+    "checked": "2026-11-24T09:31:33.529571+00:00",
+    "count": 8,
+    "status": "fetched",
+    "errors": []
+  },
+  {
+    "url": "https://spie.org/conferences-and-exhibitions",
+    "checked": "2026-11-24T09:32:03.291213+00:00",
+    "count": 0,
+    "status": "fetched",
+    "errors": []
+  },
+  {
+    "url": "https://www.optica.org/events/",
+    "checked": "2026-11-24T09:32:04.608694+00:00",
+    "count": 0,
+    "status": "fetched",
+    "errors": [
+      "size or external redirect",
+      "size or external redirect",
+      "size or external redirect",
+      "size or external redirect",
+      "size or external redirect",
+      "size or external redirect",
+      "size or external redirect",
+      "size or external redirect",
+      "size or external redirect",
+      "size or external redirect",
+      "size or external redirect"
+    ]
+  },
+  {
+    "url": "https://avs.org/",
+    "checked": "2026-11-24T09:32:18.316148+00:00",
+    "count": 0,
+    "status": "no dates",
+    "errors": [
+      "size or external redirect"
+    ]
+  },
+  {
+    "url": "https://www.hibrain.net/",
+    "checked": "2026-11-24T09:32:19.641637+00:00",
+    "count": 0,
+    "status": "robots unavailable",
+    "errors": []
+  },
+  {
+    "url": "https://www.onoffmix.com/",
+    "checked": "2026-11-24T09:32:19.874111+00:00",
+    "count": 0,
+    "status": "no dates",
+    "errors": []
+  },
+  {
+    "url": "https://event-us.kr/",
+    "checked": "2026-11-24T09:32:20.460677+00:00",
+    "count": 0,
+    "status": "fetched",
+    "errors": []
+  },
+  {
+    "url": "https://kosen.kr/",
+    "checked": "2026-11-24T09:32:50.064240+00:00",
+    "count": 3,
+    "status": "fetched",
+    "errors": []
+  },
+  {
+    "url": "https://www.ibric.org/",
+    "checked": "2026-11-24T09:33:17.908956+00:00",
+    "count": 1,
+    "status": "fetched",
+    "errors": []
+  },
+  {
+    "url": "https://www.bioin.or.kr/",
+    "checked": "2026-11-24T09:33:53.538492+00:00",
+    "count": 5,
+    "status": "fetched",
+    "errors": []
+  },
+  {
+    "url": "https://www.ntis.go.kr/",
+    "checked": "2026-11-24T09:34:38.469543+00:00",
+    "count": 0,
+    "status": "no dates",
+    "errors": []
+  },
+  {
+    "url": "https://www.bizinfo.go.kr/",
+    "checked": "2026-11-24T09:34:39.597644+00:00",
+    "count": 0,
+    "status": "fetched",
+    "errors": []
+  },
+  {
+    "url": "https://www.idec.or.kr/",
+    "checked": "2026-11-24T09:35:22.793815+00:00",
+    "count": 0,
+    "status": "fetched",
+    "errors": []
+  },
+  {
+    "url": "https://www.ksia.or.kr/",
+    "checked": "2026-11-24T09:35:27.233834+00:00",
+    "count": 0,
+    "status": "robots unavailable",
+    "errors": []
+  },
+  {
+    "url": "https://www.nnfc.re.kr/",
+    "checked": "2026-11-24T09:35:28.041740+00:00",
+    "count": 0,
+    "status": "no dates",
+    "errors": []
+  },
+  {
+    "url": "https://www.ctp.or.kr/",
+    "checked": "2026-11-24T09:35:29.359161+00:00",
+    "count": 0,
+    "status": "no dates",
+    "errors": []
+  },
+  {
+    "url": "https://www.djtp.or.kr/",
+    "checked": "2026-11-24T09:35:30.695709+00:00",
+    "count": 0,
+    "status": "no dates",
+    "errors": []
+  },
+  {
+    "url": "https://www.cbtp.or.kr/",
+    "checked": "2026-11-24T09:35:32.122386+00:00",
+    "count": 0,
+    "status": "robots unavailable",
     "errors": []
   }
 ]
