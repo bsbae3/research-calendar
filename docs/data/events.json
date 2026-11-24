@@ -140,6 +140,20 @@
     "origin": "legacy V3.1 import — review source"
   },
   {
+    "title": "IDEC — Digital LDO Regulator: Reactive to Predictive — 교육 신청 마감",
+    "start": "2026-11-30",
+    "end": "2026-11-30",
+    "source_url": "https://www.idec.or.kr/main/",
+    "kind": "교육 신청 마감",
+    "location": "대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC"
+  },
+  {
     "title": "IDEC — 전력반도체 측정 및 실패모드 분석 (제목 일부) — 교육 신청 마감",
     "start": "2026-11-30",
     "end": "2026-11-30",
@@ -154,9 +168,9 @@
     "organizer": "IDEC"
   },
   {
-    "title": "IDEC — Digital LDO Regulator: Reactive to Predictive — 교육 신청 마감",
-    "start": "2026-11-30",
-    "end": "2026-11-30",
+    "title": "IDEC — High-Speed Interface: Clock Generation Basics — 교육 신청 마감",
+    "start": "2026-12-01",
+    "end": "2026-12-01",
     "source_url": "https://www.idec.or.kr/main/",
     "kind": "교육 신청 마감",
     "location": "대한민국",
@@ -193,20 +207,6 @@
       "TFT 집적회로"
     ],
     "origin": "manual import"
-  },
-  {
-    "title": "IDEC — High-Speed Interface: Clock Generation Basics — 교육 신청 마감",
-    "start": "2026-12-01",
-    "end": "2026-12-01",
-    "source_url": "https://www.idec.or.kr/main/",
-    "kind": "교육 신청 마감",
-    "location": "대한민국",
-    "fields": [
-      "반도체 소자 및 공정",
-      "TFT 집적회로"
-    ],
-    "origin": "official page checked 2026-11-24",
-    "organizer": "IDEC"
   },
   {
     "title": "IDW 2026",
@@ -606,6 +606,19 @@
     "origin": "legacy V3.1 import — review source"
   },
   {
+    "title": "PSST-PR 2027 — Porous Semiconductors, Science and Technology (2nd Pacific Rim Edition)",
+    "source_url": "https://psstprconference.com/",
+    "start": "2027-04-12",
+    "end": "2027-04-16",
+    "location": "voco Seoul Myeongdong, 52, Toegye-ro, Jung-gu, Seoul, KR",
+    "kind": "학회",
+    "fields": [
+      "반도체 소자 및 공정",
+      "소재 및 나노 기술"
+    ],
+    "origin": "structured feed"
+  },
+  {
     "title": "ITC 2027 — International Thin-Film Transistors Conference",
     "source_url": "https://www.itc2027.org/",
     "start": "2027-04-20",
@@ -676,6 +689,20 @@
       "Micro LED / AR / VR"
     ],
     "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "2027 Symposium on VLSI Technology and Circuits",
+    "source_url": "https://www.vlsisymposium.org/authorsguide.html",
+    "start": "2027-06-20",
+    "end": "2027-06-24",
+    "location": "Rihga Royal Hotel Kyoto, Japan, Kyoto, JP",
+    "kind": "학회",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체",
+      "소재 및 나노 기술"
+    ],
+    "origin": "structured feed"
   },
   {
     "title": "ALD/ALE 2027",
