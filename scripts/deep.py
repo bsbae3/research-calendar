@@ -30,7 +30,7 @@ def run():
   except Exception as e:
    if getattr(e,'code',None)==404:robots.parse([])
    else:log['status']='robots unavailable';logs.append(log);continue
-  while queue and len(seen)<12:
+  while queue and len(seen)<(24 if s.get("priority") else 12):
    url=queue.pop(0)
    if url in seen or not robots.can_fetch('ResearchPortal',url):continue
    seen.add(url)
@@ -57,6 +57,8 @@ def run():
     review.extend(candidates(text,final));log['status']='fetched'
    except Exception as e:log['errors'].append(str(e)[:180])
    time.sleep(1)
+  log['pages']=len(seen)
+  if log['count']==0 and log['status']=='fetched':log['status']='fetched; no extracted events'
   logs.append(log)
   print(f"{i+1}/{len(sources)} {root} {log['status']} events={log['count']} pages={len(seen)}",flush=True)
  prior={key(e):e for e in old}
@@ -64,4 +66,9 @@ def run():
   p=prior.get(key(e))
   if p and any(p.get(k)!=e.get(k) for k in ('start','end','location')):changes.append(dict(title=e['title'],before=p,after=e,checked=today.isoformat()))
  save('events.json',merge(old,[e for e in found if key(e) not in prior or e['origin']=='structured feed']));save('logs.json',logs);save('changes.json',changes[-1000:]); previous=load('review.json');save('review.json',list({(x['url'],x['evidence']):x for x in previous+review}.values())[-5000:])
-if __name__=='__main__':run()
+if __name__=='__main__':
+ run()
+ from recurring46 import run as recurring
+ recurring()
+ print('Total stored events:',len(load('events.json')),flush=True)
+ print('Month-only hints:',len(load('recurring.json')),flush=True)

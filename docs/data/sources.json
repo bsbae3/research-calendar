@@ -1656,5 +1656,17 @@
     "priority": true,
     "domestic": true,
     "aggregator": true
+  },
+  {
+    "url": "https://www.imid.or.kr/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "Micro LED / AR / VR"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": true
   }
 ]

@@ -1,0 +1,202 @@
+[
+  {
+    "title": "IEDM 2026",
+    "month": "2026-12",
+    "source_url": "https://ieee-iedm.org/",
+    "field": "반도체 소자 및 공정",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "NeurIPS 2026",
+    "month": "2026-12",
+    "source_url": "https://neurips.cc/",
+    "field": "AI 반도체",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "CVPR 2027",
+    "month": "2027-06",
+    "source_url": "https://cvpr.thecvf.com/",
+    "field": "컴퓨터 사이언스",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "ICML 2027",
+    "month": "2027-07",
+    "source_url": "https://icml.cc/",
+    "field": "컴퓨터 사이언스",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "IMID 2027",
+    "month": "2027-08",
+    "source_url": "https://www.imid.or.kr/",
+    "field": "LCD / OLED / Display",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "IEEE SENSORS 2027",
+    "month": "2027-10",
+    "source_url": "https://ieee-sensors.org/",
+    "field": "센서",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "IDW 2027",
+    "month": "2027-12",
+    "source_url": "https://www.idw.or.jp/",
+    "field": "LCD / OLED / Display",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "NeurIPS 2027",
+    "month": "2027-12",
+    "source_url": "https://neurips.cc/",
+    "field": "AI 반도체",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "ISSCC 2028",
+    "month": "2028-02",
+    "source_url": "https://www.isscc.org/",
+    "field": "TFT 집적회로",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "SID Display Week 2028",
+    "month": "2028-05",
+    "source_url": "https://www.displayweek.org/",
+    "field": "LCD / OLED / Display",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "VLSI Symposium 2028",
+    "month": "2028-06",
+    "source_url": "https://www.vlsisymposium.org/",
+    "field": "반도체 소자 및 공정",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "CVPR 2028",
+    "month": "2028-06",
+    "source_url": "https://cvpr.thecvf.com/",
+    "field": "컴퓨터 사이언스",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "ICML 2028",
+    "month": "2028-07",
+    "source_url": "https://icml.cc/",
+    "field": "컴퓨터 사이언스",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "IMID 2028",
+    "month": "2028-08",
+    "source_url": "https://www.imid.or.kr/",
+    "field": "LCD / OLED / Display",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "IEEE SENSORS 2028",
+    "month": "2028-10",
+    "source_url": "https://ieee-sensors.org/",
+    "field": "센서",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "IDW 2028",
+    "month": "2028-12",
+    "source_url": "https://www.idw.or.jp/",
+    "field": "LCD / OLED / Display",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "IEDM 2028",
+    "month": "2028-12",
+    "source_url": "https://ieee-iedm.org/",
+    "field": "반도체 소자 및 공정",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "NeurIPS 2028",
+    "month": "2028-12",
+    "source_url": "https://neurips.cc/",
+    "field": "AI 반도체",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "ISSCC 2029",
+    "month": "2029-02",
+    "source_url": "https://www.isscc.org/",
+    "field": "TFT 집적회로",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "SID Display Week 2029",
+    "month": "2029-05",
+    "source_url": "https://www.displayweek.org/",
+    "field": "LCD / OLED / Display",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "VLSI Symposium 2029",
+    "month": "2029-06",
+    "source_url": "https://www.vlsisymposium.org/",
+    "field": "반도체 소자 및 공정",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "CVPR 2029",
+    "month": "2029-06",
+    "source_url": "https://cvpr.thecvf.com/",
+    "field": "컴퓨터 사이언스",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "ICML 2029",
+    "month": "2029-07",
+    "source_url": "https://icml.cc/",
+    "field": "컴퓨터 사이언스",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "IMID 2029",
+    "month": "2029-08",
+    "source_url": "https://www.imid.or.kr/",
+    "field": "LCD / OLED / Display",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  },
+  {
+    "title": "IEEE SENSORS 2029",
+    "month": "2029-10",
+    "source_url": "https://ieee-sensors.org/",
+    "field": "센서",
+    "status": "예상 개최 월 · 공식 날짜 미확정",
+    "location": ""
+  }
+]
