@@ -1,0 +1,1090 @@
+[
+  {
+    "url": "https://www.mrs.org/meetings-events/annual-meetings/",
+    "fields": [
+      "소재 및 나노 기술",
+      "TFT / Oxide TFT",
+      "반도체 소자 및 공정"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://www.idw.or.jp/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "TFT 집적회로",
+      "Micro LED / AR / VR"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://www.aspdac.com/aspdac2027/index.html",
+    "fields": [
+      "AI 반도체",
+      "반도체 소자 및 공정"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://www.kcsconference.org/2027/venue.html",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체",
+      "소재 및 나노 기술"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://www.isscc.org/",
+    "fields": [
+      "AI 반도체",
+      "반도체 소자 및 공정"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://semiconkorea.org/ko/about/overview",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체",
+      "소재 및 나노 기술"
+    ],
+    "kind": "전시회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://www.irps.org/future-conferences",
+    "fields": [
+      "반도체 소자 및 공정",
+      "소재 및 나노 기술"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://psstprconference.com/",
+    "fields": [
+      "반도체 소자 및 공정",
+      "소재 및 나노 기술"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://www.touchtaiwan.com/en/",
+    "fields": [
+      "LCD / OLED / Display",
+      "Micro LED / AR / VR",
+      "반도체 소자 및 공정"
+    ],
+    "kind": "전시회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://www.displayweek.org/exhibitors/ex-faq/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "Micro LED / AR / VR"
+    ],
+    "kind": "전시회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://ald2027.avs.org/schedule/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "반도체 소자 및 공정",
+      "소재 및 나노 기술"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://www.vlsisymposium.org/",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체",
+      "소재 및 나노 기술"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://dac.com/2027/",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://ieee-iedm.org/about/future-conferences/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "반도체 소자 및 공정",
+      "AI 반도체",
+      "소재 및 나노 기술"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://www.sid.org/",
+    "fields": [
+      "LCD / OLED / Display"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://eds.ieee.org/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://spie.org/",
+    "fields": [
+      "Micro LED / AR / VR"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://www.mrs.org/",
+    "fields": [
+      "소재 및 나노 기술"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://sscs.ieee.org/",
+    "fields": [
+      "AI 반도체"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://ieee-cas.org/",
+    "fields": [
+      "TFT 집적회로"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": false
+  },
+  {
+    "url": "https://www.kids.or.kr/",
+    "fields": [
+      "TFT / Oxide TFT"
+    ],
+    "kind": "학회",
+    "status": "unverified",
+    "priority": true,
+    "domestic": true
+  },
+  {
+    "url": "https://www.itc2027.org/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "TFT 집적회로"
+    ],
+    "kind": "학회",
+    "priority": true,
+    "status": "previously cited; recheck",
+    "domestic": false
+  },
+  {
+    "url": "https://www.displayweek.org/program/authors-presenters/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "TFT 집적회로"
+    ],
+    "kind": "학회",
+    "priority": true,
+    "status": "previously cited; recheck",
+    "domestic": false
+  },
+  {
+    "url": "https://k-ids.or.kr/Conference/Conferencelist_new.asp?AC=0&B_CATE=",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "TFT 집적회로"
+    ],
+    "kind": "학회",
+    "priority": true,
+    "status": "previously cited; recheck",
+    "domestic": true
+  },
+  {
+    "url": "https://k-ids.or.kr/Conference/ConferenceView.asp?AC=0&B_CATE=bbc1&CODE=CC20261102",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "TFT 집적회로"
+    ],
+    "kind": "학회",
+    "priority": true,
+    "status": "previously cited; recheck",
+    "domestic": true
+  },
+  {
+    "url": "https://www.theieie.org/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://kps.or.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://kvs.or.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://mrs-k.or.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://kieeme.or.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://osk.or.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://www.kdia.org/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://ksia.or.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://nnfc.re.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://etri.re.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://keti.re.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://keit.re.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://www.semi.org/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://kaist.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://postech.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://snu.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://yonsei.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://korea.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://www.skku.edu/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://hanyang.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://unist.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://gist.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://dgist.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://cnu.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://cbnu.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://hoseo.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://sunmoon.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://kongju.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://ktech.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://ctp.or.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://cbtp.or.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://kist.re.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://kriss.re.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://kimm.re.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://kicet.re.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://kims.re.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://kist.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://ajou.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://inha.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://pusan.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://knu.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://jnu.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://jbnu.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://seoultech.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://uos.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://cau.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://ssu.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://sogang.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://kookmin.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://dankook.ac.kr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://www.samsung.com/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.skhynix.com/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.lgdisplay.com/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.appliedmaterials.com/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.lamresearch.com/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.asml.com/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.tel.com/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.parksystems.com/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.keysight.com/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.imec-int.com/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.fraunhofer.de/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.cea.fr/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://aist.go.jp/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://nims.go.jp/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.riken.jp/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://jsap.or.jp/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.ieice.org/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.ieee.org/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.ieee-cas.org/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.acm.org/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.spie.org/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.optica.org/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.avs.org/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.electrochem.org/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.european-mrs.com/",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "kind": "세미나",
+    "status": "unverified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.idec.or.kr/main/",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "kind": "교육",
+    "priority": true,
+    "status": "official page checked 2026-11-24",
+    "domestic": true
+  },
+  {
+    "url": "https://www.idec.or.kr/edu/schedule/academy/",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "kind": "교육",
+    "priority": true,
+    "status": "official page checked 2026-11-24",
+    "domestic": true
+  },
+  {
+    "url": "https://academy.idec.or.kr/",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "kind": "교육",
+    "priority": true,
+    "status": "official page checked 2026-11-24",
+    "domestic": true
+  },
+  {
+    "url": "https://www.idec.or.kr/boards/notice/list/",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "kind": "교육",
+    "priority": true,
+    "status": "official page checked 2026-11-24",
+    "domestic": true
+  },
+  {
+    "url": "https://www.idec.or.kr/edu/info/",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "kind": "교육",
+    "priority": true,
+    "status": "official page checked 2026-11-24",
+    "domestic": true
+  }
+]

@@ -1,0 +1,791 @@
+[
+  {
+    "title": "IDEC — 전력반도체 측정 및 실패모드 분석 (제목 일부) — 교육 신청 시작",
+    "start": "2026-11-09",
+    "end": "2026-11-09",
+    "source_url": "https://www.idec.or.kr/main/",
+    "kind": "교육 신청 시작",
+    "location": "대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC"
+  },
+  {
+    "title": "IDEC — Digital LDO Regulator: Reactive to Predictive — 교육 신청 시작",
+    "start": "2026-11-11",
+    "end": "2026-11-11",
+    "source_url": "https://www.idec.or.kr/main/",
+    "kind": "교육 신청 시작",
+    "location": "대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC"
+  },
+  {
+    "title": "IDEC — Analog IC 양산 설계 실무 (제목 일부) — 교육 신청 시작",
+    "start": "2026-11-12",
+    "end": "2026-11-12",
+    "source_url": "https://www.idec.or.kr/main/",
+    "kind": "교육 신청 시작",
+    "location": "대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC"
+  },
+  {
+    "title": "IDEC — 무선 통신 및 레이다 센싱용 RF 시스템 설계 — 교육 신청 시작",
+    "start": "2026-11-12",
+    "end": "2026-11-12",
+    "source_url": "https://www.idec.or.kr/main/",
+    "kind": "교육 신청 시작",
+    "location": "대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC"
+  },
+  {
+    "title": "IDEC — High-Speed Interface: Clock Generation Basics — 교육 신청 시작",
+    "start": "2026-11-19",
+    "end": "2026-11-19",
+    "source_url": "https://www.idec.or.kr/main/",
+    "kind": "교육 신청 시작",
+    "location": "대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC"
+  },
+  {
+    "title": "IDEC — 기초반도체물리소재소자 — 교육 신청 시작",
+    "start": "2026-11-19",
+    "end": "2026-11-19",
+    "source_url": "https://www.idec.or.kr/main/",
+    "kind": "교육 신청 시작",
+    "location": "대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC"
+  },
+  {
+    "title": "2026 Metrology & Inspection Technology 연구회 하반기 워크숍",
+    "source_url": "https://k-ids.or.kr/Conference/Conferencelist_new.asp?AC=0&B_CATE=",
+    "start": "2026-11-26",
+    "end": "2026-11-26",
+    "location": "파크시스템스 과천사옥, 과천, 대한민국",
+    "kind": "세미나",
+    "fields": [
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정"
+    ],
+    "origin": "manual import"
+  },
+  {
+    "title": "IDEC — CMOS 기반 RF 집적회로",
+    "start": "2026-11-26",
+    "end": "2026-11-27",
+    "source_url": "https://www.idec.or.kr/edu/schedule/academy/",
+    "kind": "교육",
+    "location": "대전 / 온라인, 대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC",
+    "audience": "재직자 우선",
+    "delivery": "혼합"
+  },
+  {
+    "title": "ICEIC 2027 — Camera-ready paper",
+    "source_url": "https://www.iceic.org/2027/download/ICEIC_2027_CFP_20261029.pdf",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "location": "온라인 제출/등록",
+    "kind": "논문 마감",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "MRS Fall 2026",
+    "source_url": "https://www.mrs.org/meetings-events/annual-meetings/",
+    "start": "2026-11-29",
+    "end": "2026-12-04",
+    "location": "Hynes Convention Center / Sheraton Boston, Boston, USA",
+    "kind": "학회",
+    "fields": [
+      "소재 및 나노 기술",
+      "TFT / Oxide TFT",
+      "반도체 소자 및 공정"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "IDEC — 전력반도체 측정 및 실패모드 분석 (제목 일부) — 교육 신청 마감",
+    "start": "2026-11-30",
+    "end": "2026-11-30",
+    "source_url": "https://www.idec.or.kr/main/",
+    "kind": "교육 신청 마감",
+    "location": "대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC"
+  },
+  {
+    "title": "IDEC — Digital LDO Regulator: Reactive to Predictive — 교육 신청 마감",
+    "start": "2026-11-30",
+    "end": "2026-11-30",
+    "source_url": "https://www.idec.or.kr/main/",
+    "kind": "교육 신청 마감",
+    "location": "대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC"
+  },
+  {
+    "title": "ISSCC 2027 — Late Breaking News Papers",
+    "source_url": "https://www.isscc.org/",
+    "start": "2026-12-01",
+    "end": "2026-12-01",
+    "location": "온라인 제출/등록",
+    "kind": "논문 마감",
+    "fields": [
+      "AI 반도체",
+      "반도체 소자 및 공정"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "SID Display Week 2027 — Abstracts / Technical Summaries",
+    "source_url": "https://www.displayweek.org/program/authors-presenters/",
+    "start": "2026-12-01",
+    "end": "2026-12-01",
+    "location": "온라인 제출",
+    "kind": "논문 마감",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "TFT 집적회로"
+    ],
+    "origin": "manual import"
+  },
+  {
+    "title": "IDEC — High-Speed Interface: Clock Generation Basics — 교육 신청 마감",
+    "start": "2026-12-01",
+    "end": "2026-12-01",
+    "source_url": "https://www.idec.or.kr/main/",
+    "kind": "교육 신청 마감",
+    "location": "대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC"
+  },
+  {
+    "title": "IDW 2026",
+    "source_url": "https://www.idw.or.jp/",
+    "start": "2026-12-02",
+    "end": "2026-12-04",
+    "location": "ACT CITY Hamamatsu, Hamamatsu, Japan",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "TFT 집적회로",
+      "Micro LED / AR / VR"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "제11회 MicroLED Display Seminar",
+    "source_url": "https://k-ids.or.kr/Conference/Conferencelist_new.asp?AC=0&B_CATE=",
+    "start": "2026-12-03",
+    "end": "2026-12-03",
+    "location": "한국컨퍼런스센터, 대한민국",
+    "kind": "세미나",
+    "fields": [
+      "Micro LED / AR / VR",
+      "LCD / OLED / Display"
+    ],
+    "origin": "manual import"
+  },
+  {
+    "title": "IDEC — Analog IC 양산 설계 실무 (제목 일부) — 교육 신청 마감",
+    "start": "2026-12-04",
+    "end": "2026-12-04",
+    "source_url": "https://www.idec.or.kr/main/",
+    "kind": "교육 신청 마감",
+    "location": "대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC"
+  },
+  {
+    "title": "IDEC — 기초반도체물리소재소자 — 교육 신청 마감",
+    "start": "2026-12-04",
+    "end": "2026-12-04",
+    "source_url": "https://www.idec.or.kr/main/",
+    "kind": "교육 신청 마감",
+    "location": "대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC"
+  },
+  {
+    "title": "2026 AMD 리뷰 워크숍",
+    "source_url": "https://k-ids.or.kr/Conference/ConferenceView.asp?AC=0&B_CATE=bbc1&CODE=CC20261102",
+    "start": "2026-12-10",
+    "end": "2026-12-10",
+    "location": "포스코타워 역삼, 서울, 대한민국",
+    "kind": "세미나",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "TFT 집적회로"
+    ],
+    "origin": "manual import"
+  },
+  {
+    "title": "IDEC — 무선 통신 및 레이다 센싱용 RF 시스템 설계 — 교육 신청 마감",
+    "start": "2026-12-10",
+    "end": "2026-12-10",
+    "source_url": "https://www.idec.or.kr/main/",
+    "kind": "교육 신청 마감",
+    "location": "대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC"
+  },
+  {
+    "title": "ASP-DAC 2027 — Early bird",
+    "source_url": "https://www.aspdac.com/aspdac2027/index.html",
+    "start": "2026-12-11",
+    "end": "2026-12-11",
+    "location": "온라인 제출/등록",
+    "kind": "등록 마감",
+    "fields": [
+      "AI 반도체",
+      "반도체 소자 및 공정"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "2026 충청&영남지부 합동 하반기 워크숍",
+    "source_url": "https://k-ids.or.kr/Conference/Conferencelist_new.asp?AC=0&B_CATE=",
+    "start": "2026-12-21",
+    "end": "2026-12-22",
+    "location": "충남대학교 글로벌인재양성센터, 대전, 대한민국",
+    "kind": "세미나",
+    "fields": [
+      "LCD / OLED / Display"
+    ],
+    "origin": "manual import"
+  },
+  {
+    "title": "ICEIC 2027 — Registration",
+    "source_url": "https://www.iceic.org/2027/download/ICEIC_2027_CFP_20261029.pdf",
+    "start": "2026-12-21",
+    "end": "2026-12-21",
+    "location": "온라인 제출/등록",
+    "kind": "등록 마감",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "VLSI Symposium 2027 — Workshop proposal",
+    "source_url": "https://www.vlsisymposium.org/call-for-workshop.html",
+    "start": "2026-12-22",
+    "end": "2026-12-22",
+    "location": "온라인 제출/등록",
+    "kind": "논문 마감",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "ITC 2027 — Abstract submission",
+    "source_url": "https://www.itc2027.org/",
+    "start": "2026-12-28",
+    "end": "2026-12-28",
+    "location": "온라인 제출",
+    "kind": "논문 마감",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "TFT 집적회로"
+    ],
+    "origin": "manual import"
+  },
+  {
+    "title": "IDEC — 제14기 시스템반도체설계실무인력양성",
+    "start": "2027-01-04",
+    "end": "2027-04-23",
+    "source_url": "https://www.idec.or.kr/boards/notice/view/?no=30748&no=59406",
+    "kind": "교육",
+    "location": "동탄, 대한민국",
+    "fields": [
+      "반도체 소자 및 공정",
+      "TFT 집적회로"
+    ],
+    "origin": "official page checked 2026-11-24",
+    "organizer": "IDEC",
+    "fee": "무료",
+    "audience": "학부 졸업(예정)자",
+    "delivery": "오프라인"
+  },
+  {
+    "title": "ASP-DAC 2027 — Student forum poster",
+    "source_url": "https://www.aspdac.com/aspdac2027/student_forum/",
+    "start": "2027-01-05",
+    "end": "2027-01-05",
+    "location": "온라인 제출/등록",
+    "kind": "논문 마감",
+    "fields": [
+      "AI 반도체",
+      "반도체 소자 및 공정"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "KCS 2027 — 사전등록",
+    "source_url": "https://www.kcsconference.org/2027/registration.html",
+    "start": "2027-01-15",
+    "end": "2027-01-15",
+    "location": "온라인 제출/등록",
+    "kind": "등록 마감",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "SID Display Week 2027 — Late-News Technical Summaries",
+    "source_url": "https://www.displayweek.org/program/authors-presenters/",
+    "start": "2027-01-20",
+    "end": "2027-01-20",
+    "location": "온라인 제출",
+    "kind": "논문 마감",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "TFT 집적회로"
+    ],
+    "origin": "manual import"
+  },
+  {
+    "title": "ICEIC 2027",
+    "source_url": "https://www.iceic.org/2027/download/ICEIC_2027_CFP_20261029.pdf",
+    "start": "2027-01-24",
+    "end": "2027-01-27",
+    "location": "Hilton Fukuoka Sea Hawk, Fukuoka, Japan",
+    "kind": "학회",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "ASP-DAC 2027",
+    "source_url": "https://www.aspdac.com/aspdac2027/index.html",
+    "start": "2027-01-25",
+    "end": "2027-01-28",
+    "location": "Hitotsubashi Hall, Tokyo, Japan",
+    "kind": "학회",
+    "fields": [
+      "AI 반도체",
+      "반도체 소자 및 공정"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "VLSI Symposium 2027 — Paper submission",
+    "source_url": "https://www.vlsisymposium.org/",
+    "start": "2027-01-25",
+    "end": "2027-01-25",
+    "location": "온라인 제출/등록",
+    "kind": "논문 마감",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "한국반도체학술대회 KCS 2027",
+    "source_url": "https://www.kcsconference.org/2027/venue.html",
+    "start": "2027-01-26",
+    "end": "2027-01-29",
+    "location": "강릉컨벤션센터, 강릉, 대한민국",
+    "kind": "학회",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "ALD/ALE 2027 — Abstract",
+    "source_url": "https://ald2027.avs.org/schedule/",
+    "start": "2027-02-04",
+    "end": "2027-02-04",
+    "location": "온라인 제출/등록",
+    "kind": "논문 마감",
+    "fields": [
+      "TFT / Oxide TFT",
+      "반도체 소자 및 공정",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "ISSCC 2027",
+    "source_url": "https://www.isscc.org/",
+    "start": "2027-02-14",
+    "end": "2027-02-18",
+    "location": "San Francisco Marriott Marquis, San Francisco, USA",
+    "kind": "학회",
+    "fields": [
+      "AI 반도체",
+      "반도체 소자 및 공정"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "ITC 2027 — Early Bird registration",
+    "source_url": "https://www.itc2027.org/registration",
+    "start": "2027-02-15",
+    "end": "2027-02-15",
+    "location": "온라인 등록",
+    "kind": "등록 마감",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "TFT 집적회로"
+    ],
+    "origin": "manual import"
+  },
+  {
+    "title": "SEMICON Korea 2027",
+    "source_url": "https://semiconkorea.org/ko/about/overview",
+    "start": "2027-02-17",
+    "end": "2027-02-19",
+    "location": "COEX 및 파르나스 호텔, 서울, 대한민국",
+    "kind": "전시회",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "SID Display Week 2027 — Revised Digest Paper",
+    "source_url": "https://www.displayweek.org/program/authors-presenters/",
+    "start": "2027-03-15",
+    "end": "2027-03-15",
+    "location": "온라인 제출",
+    "kind": "논문 마감",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "TFT 집적회로"
+    ],
+    "origin": "manual import"
+  },
+  {
+    "title": "IRPS 2027",
+    "source_url": "https://www.irps.org/future-conferences",
+    "start": "2027-03-21",
+    "end": "2027-03-25",
+    "location": "Town and Country, San Diego, USA",
+    "kind": "학회",
+    "fields": [
+      "반도체 소자 및 공정",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "DAC 2027 — Proceedings manuscript",
+    "source_url": "https://dac.com/2027/program/research-manuscript-submissions",
+    "start": "2027-03-31",
+    "end": "2027-03-31",
+    "location": "온라인 제출/등록",
+    "kind": "논문 마감",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "MRS Spring 2027",
+    "source_url": "https://www.mrs.org/meetings-events/annual-meetings/",
+    "start": "2027-04-05",
+    "end": "2027-04-09",
+    "location": "Seattle, USA",
+    "kind": "학회",
+    "fields": [
+      "소재 및 나노 기술",
+      "TFT / Oxide TFT",
+      "반도체 소자 및 공정"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "DAC 2027 — Author registration",
+    "source_url": "https://dac.com/2027/program/research-manuscript-submissions",
+    "start": "2027-04-10",
+    "end": "2027-04-10",
+    "location": "온라인 제출/등록",
+    "kind": "등록 마감",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "PSST-PR 2027",
+    "source_url": "https://psstprconference.com/",
+    "start": "2027-04-12",
+    "end": "2027-04-16",
+    "location": "voco Seoul Myeongdong, 서울, 대한민국",
+    "kind": "학회",
+    "fields": [
+      "반도체 소자 및 공정",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "ITC 2027 — International Thin-Film Transistors Conference",
+    "source_url": "https://www.itc2027.org/",
+    "start": "2027-04-20",
+    "end": "2027-04-23",
+    "location": "CNR Headquarters, Rome, Italy",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "TFT 집적회로"
+    ],
+    "origin": "manual import"
+  },
+  {
+    "title": "Touch Taiwan 2027",
+    "source_url": "https://www.touchtaiwan.com/en/",
+    "start": "2027-04-21",
+    "end": "2027-04-23",
+    "location": "Taipei Nangang Exhibition Center Hall 1, Taipei, Taiwan",
+    "kind": "전시회",
+    "fields": [
+      "LCD / OLED / Display",
+      "Micro LED / AR / VR",
+      "반도체 소자 및 공정"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "ALD/ALE 2027 — Early registration",
+    "source_url": "https://ald2027.avs.org/schedule/",
+    "start": "2027-05-07",
+    "end": "2027-05-07",
+    "location": "온라인 제출/등록",
+    "kind": "등록 마감",
+    "fields": [
+      "TFT / Oxide TFT",
+      "반도체 소자 및 공정",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "SID Display Week 2027",
+    "source_url": "https://www.displayweek.org/exhibitors/ex-faq/",
+    "start": "2027-06-06",
+    "end": "2027-06-11",
+    "location": "San Jose McEnery Convention Center, San Jose, USA",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "TFT 집적회로",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "SID Display Week 2027 Exhibition",
+    "source_url": "https://www.displayweek.org/exhibitors/ex-faq/",
+    "start": "2027-06-08",
+    "end": "2027-06-10",
+    "location": "San Jose McEnery Convention Center, San Jose, USA",
+    "kind": "전시회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "Micro LED / AR / VR"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "ALD/ALE 2027",
+    "source_url": "https://ald2027.avs.org/schedule/",
+    "start": "2027-06-20",
+    "end": "2027-06-23",
+    "location": "Dresden, Germany",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "반도체 소자 및 공정",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "VLSI Symposium 2027",
+    "source_url": "https://www.vlsisymposium.org/",
+    "start": "2027-06-20",
+    "end": "2027-06-24",
+    "location": "RIHGA Royal Hotel Kyoto, Kyoto, Japan",
+    "kind": "학회",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "DAC 2027",
+    "source_url": "https://dac.com/2027/",
+    "start": "2027-07-11",
+    "end": "2027-07-14",
+    "location": "San Jose Convention Center, San Jose, USA",
+    "kind": "학회",
+    "fields": [
+      "반도체 소자 및 공정",
+      "AI 반도체"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "ALD/ALE 2027 — Manuscript",
+    "source_url": "https://ald2027.avs.org/schedule/",
+    "start": "2027-11-01",
+    "end": "2027-11-01",
+    "location": "온라인 제출/등록",
+    "kind": "논문 마감",
+    "fields": [
+      "TFT / Oxide TFT",
+      "반도체 소자 및 공정",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "MRS Fall 2027",
+    "source_url": "https://www.mrs.org/meetings-events/annual-meetings/",
+    "start": "2027-11-28",
+    "end": "2027-12-03",
+    "location": "Hynes Convention Center / Sheraton Boston, Boston, USA",
+    "kind": "학회",
+    "fields": [
+      "소재 및 나노 기술",
+      "TFT / Oxide TFT",
+      "반도체 소자 및 공정"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "IEDM 2027",
+    "source_url": "https://ieee-iedm.org/about/future-conferences/",
+    "start": "2027-12-04",
+    "end": "2027-12-08",
+    "location": "Hilton Union Square, San Francisco, USA",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "반도체 소자 및 공정",
+      "AI 반도체",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "MRS Spring 2028",
+    "source_url": "https://www.mrs.org/meetings-events/annual-meetings/",
+    "start": "2028-03-27",
+    "end": "2028-03-31",
+    "location": "Vancouver, Canada",
+    "kind": "학회",
+    "fields": [
+      "소재 및 나노 기술",
+      "TFT / Oxide TFT",
+      "반도체 소자 및 공정"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "IRPS 2028",
+    "source_url": "https://www.irps.org/future-conferences",
+    "start": "2028-04-23",
+    "end": "2028-04-27",
+    "location": "Hyatt Regency Long Beach, Long Beach, USA",
+    "kind": "학회",
+    "fields": [
+      "반도체 소자 및 공정",
+      "소재 및 나노 기술"
+    ],
+    "origin": "legacy V3.1 import — review source"
+  }
+]

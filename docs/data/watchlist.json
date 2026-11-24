@@ -1,0 +1,1490 @@
+[
+  {
+    "name": "Display Week",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IMID",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IDW",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "AM-FPD",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "EuroDisplay",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICDT",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Asia Display",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Flexible and Printed Electronics",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "LOPEC",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "FLEX",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Printed Electronics Europe",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Printed Electronics USA",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Organic Electronics",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Symposium on Flexible Electronics",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Flexible Electronics",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Flexible and Wearable Electronics",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Organic and Hybrid Electronics",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "K-Display",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Touch Taiwan",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Display Taiwan",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Display Innovation China",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Display Japan",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "OLED World Summit",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Symposium on OLEDs",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Liquid Crystals",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "European Conference on Liquid Crystals",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Asian Conference on Liquid Crystals",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SID Vehicle Displays",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SID Mid-Europe Chapter Meeting",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SID Pacific Northwest Chapter Meeting",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SID Bay Area Chapter Meeting",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SID UK and Ireland Chapter Meeting",
+    "field": "LCD / OLED / Display",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IEDM",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "VLSI Symposium",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "EDTM",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IRPS",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICMTS",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SISPAD",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ISPSD",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "DRC",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "INFOS",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "S3S",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SISC",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IWJT",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IWDTF",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IIRW",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICSICT",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICSE",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICM",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICICDT",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IEEE SOI Conference",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IEEE International Memory Workshop",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IEEE International Symposium on Semiconductor Manufacturing",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IEEE International Conference on Semiconductor Electronics",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IEEE International Conference on Electron Devices and Solid-State Circuits",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IEEE International Conference on Nanotechnology",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IEEE International Conference on Nano/Micro Engineered and Molecular Systems",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IEEE International Conference on Microelectronics",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://eds.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SEMICON Korea",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SEMICON Japan",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SEMICON Taiwan",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SEMICON China",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SEMICON Southeast Asia",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SEMICON India",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SEMICON Europa",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SEMICON West",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SEMICON Japan Advanced Packaging",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Advanced Semiconductor Manufacturing Conference",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Strategic Materials Conference",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Industry Strategy Symposium",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "MEMS & Sensors Executive Congress",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "European MEMS and Sensors Summit",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Advanced Packaging Summit",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Electronics Manufacturing Technology Conference",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.semi.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ISCAS",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "APCCAS",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICECS",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "MWSCAS",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "NEWCAS",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "BioCAS",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "AICAS",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SiPS",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "DCAS",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "LASCAS",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "VLSI-SoC",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ISVLSI",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "iSES",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICICM",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICSI",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Electronics Circuits and Systems",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Flexible and Printable Electronics",
+    "field": "TFT 집적회로",
+    "discovery_hub": "https://ieee-cas.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ISSCC",
+    "field": "AI 반도체",
+    "discovery_hub": "https://sscs.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "CICC",
+    "field": "AI 반도체",
+    "discovery_hub": "https://sscs.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "A-SSCC",
+    "field": "AI 반도체",
+    "discovery_hub": "https://sscs.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ESSERC",
+    "field": "AI 반도체",
+    "discovery_hub": "https://sscs.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "RFIC",
+    "field": "AI 반도체",
+    "discovery_hub": "https://sscs.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "BCTM",
+    "field": "AI 반도체",
+    "discovery_hub": "https://sscs.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "VLSI-TSA",
+    "field": "AI 반도체",
+    "discovery_hub": "https://sscs.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "VLSI-DAT",
+    "field": "AI 반도체",
+    "discovery_hub": "https://sscs.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ISOCC",
+    "field": "AI 반도체",
+    "discovery_hub": "https://sscs.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICEIC",
+    "field": "AI 반도체",
+    "discovery_hub": "https://sscs.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Hot Chips",
+    "field": "AI 반도체",
+    "discovery_hub": "https://sscs.ieee.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "DAC",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "DATE",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICCAD",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ASP-DAC",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ISCA",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "MICRO",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "HPCA",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ASPLOS",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "PACT",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "CGO",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICS",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SC",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "HPDC",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "FPGA",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "FCCM",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "FPL",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "FPT",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICCD",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICDCS",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "NoCS",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "MEMSYS",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IMW",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IISWC",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ISPASS",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ISLPED",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SLIP",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "GLSVLSI",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SAC",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "CODES+ISSS",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "EMSOFT",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "CASES",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ESWEEK",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICML",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "NeurIPS",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICLR",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "AAAI",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IJCAI",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "MLSys",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "TinyML Summit",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Edge AI Summit",
+    "field": "AI 반도체",
+    "discovery_hub": "https://www.acm.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Photonics West",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE AR VR MR",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Photonics Europe",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Optics + Photonics",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Advanced Lithography + Patterning",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Defense + Commercial Sensing",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Photomask Technology",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Photonics Asia",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Optical Systems Design",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Optifab",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Medical Imaging",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Remote Sensing",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Sensors + Imaging",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Digital Optical Technologies",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Holography",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Optical Metrology",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPIE Smart Structures + NDE",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "MicroLED Connect",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "MicroLED Forum",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IEEE VR",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ISMAR",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ACM SIGGRAPH",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SIGGRAPH Asia",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Display Summit",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://spie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "CLEO",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "OFC",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Frontiers in Optics",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Optica Imaging Congress",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Optica Advanced Photonics Congress",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Optica Quantum 2.0",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Optica Sensing Congress",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Optica Laser Congress",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Optica Optical Design and Fabrication Congress",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Optica Biophotonics Congress",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Optica Photonic Networks and Devices",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Optica Nonlinear Optics",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Optica Optical Interference Coatings",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Optica Freeform Optics",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Optica Computational Optical Sensing and Imaging",
+    "field": "Micro LED / AR / VR",
+    "discovery_hub": "https://www.optica.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "MRS Spring Meeting",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "MRS Fall Meeting",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "E-MRS Spring Meeting",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "E-MRS Fall Meeting",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IUMRS-ICAM",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IUMRS-ICA",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "IUMRS-ICEM",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Materials for Advanced Technologies",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Electronic Materials",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Advanced Materials",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Materials and Mechanisms of Superconductivity",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Nanoscience and Nanotechnology",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Graphene Week",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "Graphene Conference",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on 2D Materials",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Perovskite Solar Cells and Optoelectronics",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Metal Organic Vapor Phase Epitaxy",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Molecular Beam Epitaxy",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.mrs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "AVS International Symposium",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://avs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ALD/ALE",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://avs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Metallurgical Coatings and Thin Films",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://avs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Thin Films",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://avs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Vacuum Congress",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://avs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "European Vacuum Conference",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://avs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Surface Science",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://avs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Plasma Surface Engineering",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://avs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Plasma Science",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://avs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Reactive Sputter Deposition",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://avs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Ion Beam Modification of Materials",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://avs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Surface Modification of Materials by Ion Beams",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://avs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Electron Spectroscopy and Structure",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://avs.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ECS Spring Meeting",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.electrochem.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ECS Fall Meeting",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.electrochem.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "PRiME",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.electrochem.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Meeting on Lithium Batteries",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.electrochem.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Symposium on Solid Oxide Fuel Cells",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.electrochem.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Electrochemical Science and Technology",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.electrochem.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Electrochemical Energy Conversion and Storage",
+    "field": "소재 및 나노 기술",
+    "discovery_hub": "https://www.electrochem.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "JSAP Spring Meeting",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.jsap.or.jp/",
+    "status": "unverified"
+  },
+  {
+    "name": "JSAP Autumn Meeting",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.jsap.or.jp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SSDM",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.jsap.or.jp/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Nitride Semiconductors",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.jsap.or.jp/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Workshop on Nitride Semiconductors",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.jsap.or.jp/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Silicon Carbide and Related Materials",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.jsap.or.jp/",
+    "status": "unverified"
+  },
+  {
+    "name": "European Conference on Silicon Carbide and Related Materials",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.jsap.or.jp/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Compound Semiconductor Manufacturing Technology",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.jsap.or.jp/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Symposium on Compound Semiconductors",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.jsap.or.jp/",
+    "status": "unverified"
+  },
+  {
+    "name": "International Conference on Indium Phosphide and Related Materials",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.jsap.or.jp/",
+    "status": "unverified"
+  },
+  {
+    "name": "한국반도체학술대회",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.theieie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "대한전자공학회 하계종합학술대회",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.theieie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "대한전자공학회 추계학술대회",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.theieie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "한국센서학회 학술대회",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.theieie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "한국진공학회 동계학술대회",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.theieie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "한국진공학회 하계학술대회",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.theieie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "한국물리학회 봄 학술대회",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.theieie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "한국물리학회 가을 학술대회",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.theieie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "한국재료학회 춘계학술대회",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.theieie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "한국재료학회 추계학술대회",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.theieie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "한국전기전자재료학회 하계학술대회",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.theieie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "한국전기전자재료학회 추계학술대회",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.theieie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "한국광학회 동계학술대회",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.theieie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "한국광학회 하계학술대회",
+    "field": "반도체 소자 및 공정",
+    "discovery_hub": "https://www.theieie.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "ITC",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.itc2027.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "SID Display Week CFP",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://www.sid.org/",
+    "status": "unverified"
+  },
+  {
+    "name": "KIDS AMD 연구회",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://k-ids.or.kr/",
+    "status": "unverified"
+  },
+  {
+    "name": "KIDS MicroLED 연구회",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://k-ids.or.kr/",
+    "status": "unverified"
+  },
+  {
+    "name": "KIDS Metrology 연구회",
+    "field": "TFT / Oxide TFT",
+    "discovery_hub": "https://k-ids.or.kr/",
+    "status": "unverified"
+  }
+]
