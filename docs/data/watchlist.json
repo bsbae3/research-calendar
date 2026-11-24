@@ -1486,5 +1486,983 @@
     "field": "TFT / Oxide TFT",
     "discovery_hub": "https://k-ids.or.kr/",
     "status": "unverified"
+  },
+  {
+    "name": "CCS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CHI",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "MobiCom",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "MM",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SIGCOMM",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SIGIR",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "KDD",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "FSE",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SOSP",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "STOC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ACL",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CVPR",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "NIPS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "OOPSLA",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "INFOCOM",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "RTSS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "FOCS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "S&P",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "VIS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SIGGRAPH",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICCV",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CAV",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SIGMOD",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "EUROCRYPT",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "VLDB/PVLDB",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CRYPTO",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "WWW",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "PLDI",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "POPL",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "NSDI",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "OSDI",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CSCW",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SenSys",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CIKM",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "MobiSys",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "WSDM",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "UbiComp",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "MobiHoc",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SIGMETRICS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "PPoPP",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SPAA",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "PODS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "PODC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "IPSN",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "LICS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SODA",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "COLT",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "UAI",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "EMNLP",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICDE",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICDM",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "PerCom",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ASE",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CoNEXT",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "KR",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ATC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "FAST",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "Security",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SoCG",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CCC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ACSAC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "IUI",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ISSTA",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "IMC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "LCTES",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "UIST",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "MODELS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "MIDDLEWARE",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CogSci",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "NAACL/HLT",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CVPR (Spotlight)",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "NIPS (Spotlight)",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "Eurographics",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "EACL",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "EuroSys",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ECCV",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ECOOP",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ESA",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ESOP",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ESORICS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICNP",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICSME(ICSM)",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICWS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "IPDPS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "RE",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "RTAS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "MASCOTS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "VR",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "DSN",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "PERFORMANCE",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICALP",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "AAMAS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "COLING",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICCV(Spotlight)",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "EDBT",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICFP",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CODES",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICPP",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ASIACRYPT",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "TACAS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ISWC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "DISC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "RAID",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "NDSS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "PG",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "RSS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SDM",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "RecSys",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICMR",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "NOSSDAV",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "i3DG",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "VEE",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SOCC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ASIACCS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "VRST",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ANCS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ACCV",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CSEET",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SGP",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ECRTS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ECAI",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ECCV(Spotlight)",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "FC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "GECCO",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CSF",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "BIBM",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "InfoVis",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "AVSS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CLOUD",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CLUSTER",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "HiPC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "MSST",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "MASS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICPR",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICRA",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SECON",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICST",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ISSRE",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SRDS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CCGrid",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "NOMS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SEC(IFIP-SEC)",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ISMB",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "FASE",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICSOC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "AISTATS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICAPS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "CONCUR",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "DASFAA",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "HiPEAC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ITS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ICLP",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "MICCAI",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "Europar",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "IJCAR",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SAS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "ISAAC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "STACS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "PAKDD",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "RECOMB",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "SOUPS",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
+  },
+  {
+    "name": "TCC",
+    "field": "Computer Science",
+    "discovery_hub": "https://www.wikicfp.com/cfp/",
+    "status": "unverified"
   }
 ]

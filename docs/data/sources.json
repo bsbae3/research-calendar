@@ -1086,5 +1086,575 @@
     "priority": true,
     "status": "official page checked 2026-11-24",
     "domestic": true
+  },
+  {
+    "url": "https://calendar.vlsi.kr/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://calendar.vlsi.kr/deadlines/cfp",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.wikicfp.com/cfp/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://conferences.ieee.org/conferences_events/conferences/search",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.acm.org/conferences",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://conferencealerts.com/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.allconferencealert.com/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://conferenceindex.org/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://10times.com/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://aideadlin.es/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://csconferences.org/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.semi.org/en/events",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://ieee-sensors.org/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://spie.org/conferences-and-exhibitions",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.optica.org/events/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://avs.org/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": false,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.hibrain.net/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": true,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.onoffmix.com/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": true,
+    "aggregator": true
+  },
+  {
+    "url": "https://event-us.kr/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": true,
+    "aggregator": true
+  },
+  {
+    "url": "https://kosen.kr/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": true,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.ibric.org/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": true,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.bioin.or.kr/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": true,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.ntis.go.kr/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": true,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.bizinfo.go.kr/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": true,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.idec.or.kr/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": true,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.ksia.or.kr/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": true,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.nnfc.re.kr/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": true,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.ctp.or.kr/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": true,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.djtp.or.kr/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": true,
+    "aggregator": true
+  },
+  {
+    "url": "https://www.cbtp.or.kr/",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "kind": "학회",
+    "status": "discovery candidate — access not verified",
+    "priority": true,
+    "domestic": true,
+    "aggregator": true
   }
 ]

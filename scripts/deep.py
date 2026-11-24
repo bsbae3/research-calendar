@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from pypdf import PdfReader
 from collect import load,save,extract,merge,key
 from deep44 import labelled
+from multi45 import cards
 TERMS=r'교육|수강|강좌|특강|초청강연|기술교류|설명회|교육신청|training|course|lecture|conference|symposium|workshop|seminar|webinar|call.for.papers|deadline|submission|학회|학술|세미나|워크숍|연구회|초록|마감|講演|学会|研究会|会议|研讨|征稿|tagung|colloque|congreso'
 DATE=r'20\d{2}\s*[./년年-]\s*\d{1,2}\s*[./월月-]\s*\d{1,2}|(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\s+\d{1,2},?\s+20\d{2}|\d{1,2}\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+20\d{2}'
 def candidates(text,url):
@@ -43,12 +44,14 @@ def run():
      for a in soup.select('a[href]'):
       href=u.urljoin(final,a['href']).split('#')[0]
       if u.urlsplit(href).netloc==u.urlsplit(root).netloc and u.urlsplit(href).scheme in ('http','https') and re.search(TERMS+r'|cfp|important.dates|events?|notice|board|공지|일정|행사|2027|2028|2029',a.get_text(' ',strip=True)+' '+href,re.I) and href not in seen and href not in queue:queue.append(href)
+     queue.sort(key=lambda x: not bool(re.search(r'202[789]|cfp|deadline|important.date|schedule|calendar|일정|공지',x,re.I)))
      for e in extract(html,final,s['fields'],s['kind']):
+      if s.get('aggregator'): e['origin']='labelled aggregator structured candidate — review source'
       if today.isoformat()<=e['end'] and e['start']<=limit.isoformat():found.append(e);log['count']+=1
     if 'pdf' not in typ and not raw.startswith(b'%PDF'):
      heading=soup.find('h1') or soup.title
      if heading:
-      for e in labelled(text,heading.get_text(' ',strip=True),final,s['fields'],s['kind'],today,limit):
+      for e in cards(soup,final,s['fields'],s['kind'],today,limit)+labelled(text,heading.get_text(' ',strip=True),final,s['fields'],s['kind'],today,limit):
        review.append(dict(url=final,date_text=e['start'],evidence=e['title']+' | '+e['evidence'],status='labelled candidate',event=e))
        found.append(e);log['count']+=1
     review.extend(candidates(text,final));log['status']='fetched'
