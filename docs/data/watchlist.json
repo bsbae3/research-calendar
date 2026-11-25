@@ -2464,5 +2464,65 @@
     "field": "Computer Science",
     "discovery_hub": "https://www.wikicfp.com/cfp/",
     "status": "unverified"
+  },
+  {
+    "name": "QIP",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "discovery_hub": "https://qipconference.org/",
+    "status": "schedule tracking target"
+  },
+  {
+    "name": "IEEE Quantum Week",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "discovery_hub": "https://qce.quantum.ieee.org/",
+    "status": "schedule tracking target"
+  },
+  {
+    "name": "RIKEN Center for Quantum Computing",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "discovery_hub": "https://rqc.riken.jp/",
+    "status": "schedule tracking target"
+  },
+  {
+    "name": "NQCC Events",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "discovery_hub": "https://www.nqcc.ac.uk/events/",
+    "status": "schedule tracking target"
+  },
+  {
+    "name": "양자정보연구지원센터 행사",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "discovery_hub": "https://qcenter.kr/community/events",
+    "status": "schedule tracking target"
+  },
+  {
+    "name": "양자정보연구지원센터 공지",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "discovery_hub": "https://www.qcenter.kr/community/notice",
+    "status": "schedule tracking target"
+  },
+  {
+    "name": "QP 2027",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "discovery_hub": "https://2027.programmingconference.org/home/qp-2027",
+    "status": "schedule tracking target"
+  },
+  {
+    "name": "IBM Quantum Learning",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "discovery_hub": "https://learning.quantum.ibm.com/",
+    "status": "schedule tracking target"
+  },
+  {
+    "name": "Qiskit",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "discovery_hub": "https://www.ibm.com/quantum/qiskit",
+    "status": "schedule tracking target"
+  },
+  {
+    "name": "Quantum Korea",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "discovery_hub": "https://www.quantum-korea.kr/",
+    "status": "schedule tracking target"
   }
 ]

@@ -1668,5 +1668,105 @@
     "status": "unverified",
     "priority": true,
     "domestic": true
+  },
+  {
+    "url": "https://qipconference.org/",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "kind": "학회",
+    "status": "official source target; automated extraction not verified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://qce.quantum.ieee.org/",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "kind": "학회",
+    "status": "official source target; automated extraction not verified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://rqc.riken.jp/",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "kind": "워크숍",
+    "status": "official source target; automated extraction not verified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.nqcc.ac.uk/events/",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "kind": "학회",
+    "status": "official source target; automated extraction not verified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://qcenter.kr/community/events",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "kind": "세미나",
+    "status": "official source target; automated extraction not verified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://www.qcenter.kr/community/notice",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "kind": "교육",
+    "status": "official source target; automated extraction not verified",
+    "priority": false,
+    "domestic": true
+  },
+  {
+    "url": "https://2027.programmingconference.org/home/qp-2027",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "kind": "워크숍",
+    "status": "official source target; automated extraction not verified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://learning.quantum.ibm.com/",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "kind": "교육",
+    "status": "official source target; automated extraction not verified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.ibm.com/quantum/qiskit",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "kind": "교육",
+    "status": "official source target; automated extraction not verified",
+    "priority": false,
+    "domestic": false
+  },
+  {
+    "url": "https://www.quantum-korea.kr/",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "kind": "학회",
+    "status": "official source target; automated extraction not verified",
+    "priority": false,
+    "domestic": true
   }
 ]

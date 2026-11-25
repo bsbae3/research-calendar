@@ -2201,5 +2201,47 @@
     "category": "focus",
     "field": "반도체 신뢰성",
     "source": "연구 관심 후보; 공식 인정 및 개최 일정 미검증"
+  },
+  {
+    "abbr": "QIP",
+    "name": "Quantum Information Processing",
+    "category": "focus",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "source": "양자컴퓨팅 연구 관심 학회 (BK21 인정 등급 미부여)"
+  },
+  {
+    "abbr": "IEEE Quantum Week",
+    "name": "IEEE International Conference on Quantum Computing and Engineering",
+    "category": "focus",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "source": "양자컴퓨팅 연구 관심 학회 (BK21 인정 등급 미부여)"
+  },
+  {
+    "abbr": "NQCC",
+    "name": "Quantum Computing Scalability Conference",
+    "category": "focus",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "source": "양자컴퓨팅 연구 관심 학회 (BK21 인정 등급 미부여)"
+  },
+  {
+    "abbr": "한국양자정보학회",
+    "name": "한국양자정보학회 정기학술대회",
+    "category": "focus",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "source": "양자컴퓨팅 연구 관심 학회 (BK21 인정 등급 미부여)"
+  },
+  {
+    "abbr": "Superconducting Qubit Readout Workshop",
+    "name": "Superconducting Qubit Readout Workshop",
+    "category": "focus",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "source": "양자컴퓨팅 연구 관심 학회 (BK21 인정 등급 미부여)"
+  },
+  {
+    "abbr": "QP 2027",
+    "name": "Quantum Programming Workshop",
+    "category": "focus",
+    "field": "양자컴퓨팅 / Quantum Computing",
+    "source": "양자컴퓨팅 연구 관심 학회 (BK21 인정 등급 미부여)"
   }
 ]

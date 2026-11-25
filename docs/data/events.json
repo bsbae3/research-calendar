@@ -668,6 +668,18 @@
     "evidence": "2026.12.02~2026.12.03 | 12월 2026.12.02~2026.12.03 2026 의료기기 사업화·인허가 및 투자전략 교육 신청 안내 KIMCo 재단"
   },
   {
+    "title": "2026 QCenter & D-Wave 양자컴퓨터 교육 및 실습 프로그램",
+    "start": "2026-12-02",
+    "end": "2026-12-04",
+    "source_url": "https://www.qcenter.kr/community/notice/v/206",
+    "kind": "교육",
+    "location": "서울, 대한민국",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "origin": "official page checked 2026-11-26"
+  },
+  {
     "title": "IDW 2026",
     "source_url": "https://www.idw.or.jp/",
     "start": "2026-12-02",
@@ -742,6 +754,18 @@
     ],
     "origin": "official page checked 2026-11-24",
     "organizer": "IDEC"
+  },
+  {
+    "title": "QIP 2027 — Poster submission",
+    "start": "2026-12-04",
+    "end": "2026-12-04",
+    "source_url": "https://qipconference.org/2027/call/",
+    "kind": "논문 마감",
+    "location": "Singapore",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "origin": "official page checked 2026-11-26"
   },
   {
     "title": "UMC Monthly Sales Disclosure — November 2026",
@@ -969,6 +993,18 @@
     "evidence": "17-18 December 2026 | 17th International Conference on Science & Technology, 17-18 December 2026, Bali Bali, Indonesia online and in-person"
   },
   {
+    "title": "QIP 2027 — Early bird registration",
+    "start": "2026-12-20",
+    "end": "2026-12-20",
+    "source_url": "https://qipconference.org/2027/",
+    "kind": "참가 신청 마감",
+    "location": "Singapore",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "origin": "official page checked 2026-11-26"
+  },
+  {
     "title": "2026 충청&영남지부 합동 하반기 워크숍",
     "source_url": "https://k-ids.or.kr/Conference/Conferencelist_new.asp?AC=0&B_CATE=",
     "start": "2026-12-21",
@@ -1168,6 +1204,18 @@
     "origin": "legacy V3.1 import — review source"
   },
   {
+    "title": "QIP 2027 — Registration closes",
+    "start": "2027-01-20",
+    "end": "2027-01-20",
+    "source_url": "https://qipconference.org/2027/",
+    "kind": "참가 신청 마감",
+    "location": "Singapore",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "origin": "official page checked 2026-11-26"
+  },
+  {
     "title": "SID Display Week 2027 — Late-News Technical Summaries",
     "source_url": "https://www.displayweek.org/program/authors-presenters/",
     "start": "2027-01-20",
@@ -1276,6 +1324,30 @@
       "소재 및 나노 기술"
     ],
     "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "Superconducting Qubit Readout Workshop 2027 — Registration",
+    "start": "2027-01-31",
+    "end": "2027-01-31",
+    "source_url": "https://rqc.riken.jp/sqrw2027/",
+    "kind": "참가 신청 마감",
+    "location": "Wako, Japan",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "origin": "official page checked 2026-11-26"
+  },
+  {
+    "title": "2027 제4회 한국양자정보학회 정기학술대회 및 정기총회",
+    "start": "2027-02-01",
+    "end": "2027-02-03",
+    "source_url": "https://qcenter.kr/community/events",
+    "kind": "학회",
+    "location": "강릉, 대한민국",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "origin": "official page checked 2026-11-26"
   },
   {
     "title": "ALD/ALE 2027 — Abstract",
@@ -1448,6 +1520,18 @@
     "origin": "legacy V3.1 import — review source"
   },
   {
+    "title": "QIP 2027",
+    "start": "2027-02-20",
+    "end": "2027-02-26",
+    "source_url": "https://qipconference.org/2027/",
+    "kind": "학회",
+    "location": "Singapore",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "origin": "official page checked 2026-11-26"
+  },
+  {
     "title": "SPIE Advanced Lithography + Patterning 2027",
     "source_url": "https://calendar.vlsi.kr/events/spie-lithography-2027/",
     "start": "2027-02-21",
@@ -1550,6 +1634,18 @@
     "origin": "labelled aggregator structured candidate — review source"
   },
   {
+    "title": "QP 2027 — Quantum Programming Workshop",
+    "start": "2027-03-15",
+    "end": "2027-03-15",
+    "source_url": "https://2027.programmingconference.org/home/qp-2027",
+    "kind": "워크숍",
+    "location": "Kyoto, Japan",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "origin": "official page checked 2026-11-26"
+  },
+  {
     "title": "SID Display Week 2027 — Revised Digest Paper",
     "source_url": "https://www.displayweek.org/program/authors-presenters/",
     "start": "2027-03-15",
@@ -1562,6 +1658,19 @@
       "TFT 집적회로"
     ],
     "origin": "manual import"
+  },
+  {
+    "title": "Superconducting Qubit Readout Workshop 2027",
+    "start": "2027-03-15",
+    "end": "2027-03-17",
+    "source_url": "https://rqc.riken.jp/sqrw2027/",
+    "kind": "워크숍",
+    "location": "Wako, Japan",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "origin": "official page checked 2026-11-26",
+    "fee": "무료"
   },
   {
     "title": "IEEE IRPS 2027",
@@ -1691,6 +1800,18 @@
       "AI 반도체"
     ],
     "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "Quantum Computing Scalability Conference 2027",
+    "start": "2027-03-31",
+    "end": "2027-04-02",
+    "source_url": "https://www.nqcc.ac.uk/events/quantum-computing-scalability-conference-2027/",
+    "kind": "학회",
+    "location": "Oxford, United Kingdom",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "origin": "official page checked 2026-11-26"
   },
   {
     "title": "IEEE ICMTS 2027",
@@ -2340,6 +2461,18 @@
     ],
     "origin": "labelled multi-source candidate — review source",
     "evidence": "23-24 September 2027 | 23rd Osaka International Conference on Research in Life-Science and Healthcare, 23-24 September 2027 Osaka, Japan online and in-person"
+  },
+  {
+    "title": "IEEE Quantum Week 2027",
+    "start": "2027-10-10",
+    "end": "2027-10-15",
+    "source_url": "https://qce.quantum.ieee.org/2026/",
+    "kind": "학회",
+    "location": "Raleigh, USA",
+    "fields": [
+      "양자컴퓨팅 / Quantum Computing"
+    ],
+    "origin": "official page checked 2026-11-26"
   },
   {
     "title": "ALD/ALE 2027 — Manuscript",
