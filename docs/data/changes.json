@@ -147,5 +147,469 @@
       "origin": "labelled aggregator structured candidate — review source"
     },
     "checked": "2026-11-25"
+  },
+  {
+    "title": "2026 MRS Fall Meeting & Exhibit",
+    "before": {
+      "title": "2026 MRS Fall Meeting & Exhibit",
+      "source_url": "https://calendar.vlsi.kr/en/events/mrs-fall-2026/",
+      "start": "2026-11-29",
+      "end": "2026-12-04",
+      "location": "",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled official-page candidate — review source",
+      "evidence": "Event dates 2026-11-29 – 2026-12-04"
+    },
+    "after": {
+      "title": "2026 MRS Fall Meeting & Exhibit",
+      "source_url": "https://calendar.vlsi.kr/en/events/mrs-fall-2026/",
+      "start": "2026-11-29",
+      "end": "2026-12-04",
+      "location": "Hynes Convention Center, Boston, MA, MA, US",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled aggregator structured candidate — review source"
+    },
+    "checked": "2026-11-25"
+  },
+  {
+    "title": "IEEE Asian Test Symposium 2026",
+    "before": {
+      "title": "IEEE Asian Test Symposium 2026",
+      "source_url": "https://calendar.vlsi.kr/en/events/ats-2026/",
+      "start": "2026-12-01",
+      "end": "2026-12-03",
+      "location": "",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled official-page candidate — review source",
+      "evidence": "Event dates 2026-12-01 – 2026-12-03"
+    },
+    "after": {
+      "title": "IEEE Asian Test Symposium 2026",
+      "source_url": "https://calendar.vlsi.kr/en/events/ats-2026/",
+      "start": "2026-12-01",
+      "end": "2026-12-03",
+      "location": "Hotel Nikko Kaohsiung, Kaohsiung, TW",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled aggregator structured candidate — review source"
+    },
+    "checked": "2026-11-25"
+  },
+  {
+    "title": "NeurIPS 2026",
+    "before": {
+      "title": "NeurIPS 2026",
+      "source_url": "https://calendar.vlsi.kr/events/neurips-2026/",
+      "start": "2026-12-06",
+      "end": "2026-12-12",
+      "location": "",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled multi-source candidate — review source",
+      "evidence": "2026-12-06 – 2026-12-12 |  2026-12-06 – 2026-12-12"
+    },
+    "after": {
+      "title": "NeurIPS 2026",
+      "source_url": "https://calendar.vlsi.kr/en/events/neurips-2026/",
+      "start": "2026-12-06",
+      "end": "2026-12-12",
+      "location": "International Convention Centre Sydney (ICC Sydney), Sydney, AU",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled aggregator structured candidate — review source"
+    },
+    "checked": "2026-11-25"
+  },
+  {
+    "title": "ICEIC 2027",
+    "before": {
+      "title": "ICEIC 2027",
+      "source_url": "https://www.iceic.org/2027/download/ICEIC_2027_CFP_20261029.pdf",
+      "start": "2027-01-24",
+      "end": "2027-01-27",
+      "location": "Hilton Fukuoka Sea Hawk, Fukuoka, Japan",
+      "kind": "학회",
+      "fields": [
+        "반도체 소자 및 공정",
+        "AI 반도체"
+      ],
+      "origin": "legacy V3.1 import — review source"
+    },
+    "after": {
+      "title": "ICEIC 2027",
+      "source_url": "https://calendar.vlsi.kr/en/events/iceic-2027/",
+      "start": "2027-01-24",
+      "end": "2027-01-27",
+      "location": "Hilton Fukuoka Sea Hawk, Fukuoka, JP",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled aggregator structured candidate — review source"
+    },
+    "checked": "2026-11-25"
+  },
+  {
+    "title": "ASP-DAC 2027",
+    "before": {
+      "title": "ASP-DAC 2027",
+      "source_url": "https://www.aspdac.com/aspdac2027/index.html",
+      "start": "2027-01-25",
+      "end": "2027-01-28",
+      "location": "Hitotsubashi Hall, Tokyo, Japan",
+      "kind": "학회",
+      "fields": [
+        "AI 반도체",
+        "반도체 소자 및 공정"
+      ],
+      "origin": "legacy V3.1 import — review source"
+    },
+    "after": {
+      "title": "ASP-DAC 2027",
+      "source_url": "https://calendar.vlsi.kr/events/asp-dac-2027/",
+      "start": "2027-01-25",
+      "end": "2027-01-28",
+      "location": "Hitotsubashi Hall, Tokyo, JP",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled aggregator structured candidate — review source"
+    },
+    "checked": "2026-11-25"
+  },
+  {
+    "title": "ASP-DAC 2027",
+    "before": {
+      "title": "ASP-DAC 2027",
+      "source_url": "https://www.aspdac.com/aspdac2027/index.html",
+      "start": "2027-01-25",
+      "end": "2027-01-28",
+      "location": "Hitotsubashi Hall, Tokyo, Japan",
+      "kind": "학회",
+      "fields": [
+        "AI 반도체",
+        "반도체 소자 및 공정"
+      ],
+      "origin": "legacy V3.1 import — review source"
+    },
+    "after": {
+      "title": "ASP-DAC 2027",
+      "source_url": "https://calendar.vlsi.kr/events/asp-dac-2027/",
+      "start": "2027-01-25",
+      "end": "2027-01-28",
+      "location": "",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled multi-source candidate — review source",
+      "evidence": "2027-01-25 – 2027-01-28 |  2027-01-25 – 2027-01-28"
+    },
+    "checked": "2026-11-25"
+  },
+  {
+    "title": "IEEE ISSCC 2027",
+    "before": {
+      "title": "IEEE ISSCC 2027",
+      "source_url": "https://calendar.vlsi.kr/events/isscc-2027/",
+      "start": "2027-02-14",
+      "end": "2027-02-18",
+      "location": "",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled multi-source candidate — review source",
+      "evidence": "2027-02-14 – 2027-02-18 |  2027-02-14 – 2027-02-18"
+    },
+    "after": {
+      "title": "IEEE ISSCC 2027",
+      "source_url": "https://calendar.vlsi.kr/events/isscc-2027/",
+      "start": "2027-02-14",
+      "end": "2027-02-18",
+      "location": "San Francisco Marriott Marquis, San Francisco, CA, CA, US",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled aggregator structured candidate — review source"
+    },
+    "checked": "2026-11-25"
+  },
+  {
+    "title": "ACM International Symposium on Physical Design 2027",
+    "before": {
+      "title": "ACM International Symposium on Physical Design 2027",
+      "source_url": "https://calendar.vlsi.kr/events/ispd-2027/",
+      "start": "2027-03-30",
+      "end": "2027-04-02",
+      "location": "",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled official-page candidate — review source",
+      "evidence": "개최 일정 2027-03-30 – 2027-04-02"
+    },
+    "after": {
+      "title": "ACM International Symposium on Physical Design 2027",
+      "source_url": "https://calendar.vlsi.kr/events/ispd-2027/",
+      "start": "2027-03-30",
+      "end": "2027-04-02",
+      "location": "Howard Civil Service International House, Taipei, TW",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled aggregator structured candidate — review source"
+    },
+    "checked": "2026-11-25"
+  },
+  {
+    "title": "NeurIPS 2026",
+    "before": {
+      "title": "NeurIPS 2026",
+      "source_url": "https://calendar.vlsi.kr/events/neurips-2026/",
+      "start": "2026-12-06",
+      "end": "2026-12-12",
+      "location": "",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled multi-source candidate — review source",
+      "evidence": "2026-12-06 – 2026-12-12 |  2026-12-06 – 2026-12-12"
+    },
+    "after": {
+      "title": "NeurIPS 2026",
+      "source_url": "https://calendar.vlsi.kr/events/neurips-2026/",
+      "start": "2026-12-06",
+      "end": "2026-12-12",
+      "location": "International Convention Centre Sydney (ICC Sydney), Sydney, AU",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled aggregator structured candidate — review source"
+    },
+    "checked": "2026-11-25"
+  },
+  {
+    "title": "ICEIC 2027",
+    "before": {
+      "title": "ICEIC 2027",
+      "source_url": "https://www.iceic.org/2027/download/ICEIC_2027_CFP_20261029.pdf",
+      "start": "2027-01-24",
+      "end": "2027-01-27",
+      "location": "Hilton Fukuoka Sea Hawk, Fukuoka, Japan",
+      "kind": "학회",
+      "fields": [
+        "반도체 소자 및 공정",
+        "AI 반도체"
+      ],
+      "origin": "legacy V3.1 import — review source"
+    },
+    "after": {
+      "title": "ICEIC 2027",
+      "source_url": "https://calendar.vlsi.kr/events/iceic-2027/",
+      "start": "2027-01-24",
+      "end": "2027-01-27",
+      "location": "Hilton Fukuoka Sea Hawk, Fukuoka, JP",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled aggregator structured candidate — review source"
+    },
+    "checked": "2026-11-25"
+  },
+  {
+    "title": "KCS 2027 — The 34th Korean Conference on Semiconductors",
+    "before": {
+      "title": "KCS 2027 — The 34th Korean Conference on Semiconductors",
+      "source_url": "https://calendar.vlsi.kr/events/kcs-2027/",
+      "start": "2027-01-26",
+      "end": "2027-01-29",
+      "location": "",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled official-page candidate — review source",
+      "evidence": "개최 일정 2027-01-26 – 2027-01-29"
+    },
+    "after": {
+      "title": "KCS 2027 — The 34th Korean Conference on Semiconductors",
+      "source_url": "https://calendar.vlsi.kr/events/kcs-2027/",
+      "start": "2027-01-26",
+      "end": "2027-01-29",
+      "location": "Gangneung Convention Center, 36 Nanseolheon-ro, Gangneung, KR",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled aggregator structured candidate — review source"
+    },
+    "checked": "2026-11-25"
   }
 ]
