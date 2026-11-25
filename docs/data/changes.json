@@ -1,1 +1,151 @@
-[]
+[
+  {
+    "title": "ICEIC 2027",
+    "before": {
+      "title": "ICEIC 2027",
+      "source_url": "https://www.iceic.org/2027/download/ICEIC_2027_CFP_20261029.pdf",
+      "start": "2027-01-24",
+      "end": "2027-01-27",
+      "location": "Hilton Fukuoka Sea Hawk, Fukuoka, Japan",
+      "kind": "학회",
+      "fields": [
+        "반도체 소자 및 공정",
+        "AI 반도체"
+      ],
+      "origin": "legacy V3.1 import — review source"
+    },
+    "after": {
+      "title": "ICEIC 2027",
+      "source_url": "https://calendar.vlsi.kr/en/events/iceic-2027/",
+      "start": "2027-01-24",
+      "end": "2027-01-27",
+      "location": "Hilton Fukuoka Sea Hawk, Fukuoka, JP",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled aggregator structured candidate — review source"
+    },
+    "checked": "2026-11-25"
+  },
+  {
+    "title": "ASP-DAC 2027",
+    "before": {
+      "title": "ASP-DAC 2027",
+      "source_url": "https://www.aspdac.com/aspdac2027/index.html",
+      "start": "2027-01-25",
+      "end": "2027-01-28",
+      "location": "Hitotsubashi Hall, Tokyo, Japan",
+      "kind": "학회",
+      "fields": [
+        "AI 반도체",
+        "반도체 소자 및 공정"
+      ],
+      "origin": "legacy V3.1 import — review source"
+    },
+    "after": {
+      "title": "ASP-DAC 2027",
+      "source_url": "https://calendar.vlsi.kr/events/asp-dac-2027/",
+      "start": "2027-01-25",
+      "end": "2027-01-28",
+      "location": "Hitotsubashi Hall, Tokyo, JP",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled aggregator structured candidate — review source"
+    },
+    "checked": "2026-11-25"
+  },
+  {
+    "title": "ASP-DAC 2027",
+    "before": {
+      "title": "ASP-DAC 2027",
+      "source_url": "https://www.aspdac.com/aspdac2027/index.html",
+      "start": "2027-01-25",
+      "end": "2027-01-28",
+      "location": "Hitotsubashi Hall, Tokyo, Japan",
+      "kind": "학회",
+      "fields": [
+        "AI 반도체",
+        "반도체 소자 및 공정"
+      ],
+      "origin": "legacy V3.1 import — review source"
+    },
+    "after": {
+      "title": "ASP-DAC 2027",
+      "source_url": "https://calendar.vlsi.kr/events/asp-dac-2027/",
+      "start": "2027-01-25",
+      "end": "2027-01-28",
+      "location": "",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled multi-source candidate — review source",
+      "evidence": "2027-01-25 – 2027-01-28 |  2027-01-25 – 2027-01-28"
+    },
+    "checked": "2026-11-25"
+  },
+  {
+    "title": "ICEIC 2027",
+    "before": {
+      "title": "ICEIC 2027",
+      "source_url": "https://www.iceic.org/2027/download/ICEIC_2027_CFP_20261029.pdf",
+      "start": "2027-01-24",
+      "end": "2027-01-27",
+      "location": "Hilton Fukuoka Sea Hawk, Fukuoka, Japan",
+      "kind": "학회",
+      "fields": [
+        "반도체 소자 및 공정",
+        "AI 반도체"
+      ],
+      "origin": "legacy V3.1 import — review source"
+    },
+    "after": {
+      "title": "ICEIC 2027",
+      "source_url": "https://calendar.vlsi.kr/events/iceic-2027/",
+      "start": "2027-01-24",
+      "end": "2027-01-27",
+      "location": "Hilton Fukuoka Sea Hawk, Fukuoka, JP",
+      "kind": "학회",
+      "fields": [
+        "TFT / Oxide TFT",
+        "LCD / OLED / Display",
+        "반도체 소자 및 공정",
+        "TFT 집적회로",
+        "AI 반도체",
+        "Micro LED / AR / VR",
+        "소재 및 나노 기술",
+        "센서",
+        "Computer Science"
+      ],
+      "origin": "labelled aggregator structured candidate — review source"
+    },
+    "checked": "2026-11-25"
+  }
+]
