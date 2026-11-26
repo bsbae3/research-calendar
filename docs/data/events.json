@@ -350,6 +350,48 @@
     "delivery": "혼합"
   },
   {
+    "title": "World Dental Conference (WDC)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-human-computer-interaction-ichci-2027-january-bangkok-th",
+    "start": "2026-11-26",
+    "end": "2026-11-26",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "November 26, 2026 | November 26, 2026 World Dental Conference (WDC) - Bangkok, Thailand"
+  },
+  {
+    "title": "제도 제43차 바이오안전성·바이오산업 포럼세미나 유전자가위 산물의 안전관리와 상업화 한국바이오안전성정보센터 2026-11-26",
+    "source_url": "https://www.bioin.or.kr/index.do",
+    "start": "2026-11-26",
+    "end": "2026-11-26",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2026-11-26 | 제도 제43차 바이오안전성·바이오산업 포럼세미나 유전자가위 산물의 안전관리와 상업화 한국바이오안전성정보센터 2026-11-26"
+  },
+  {
     "title": "11월 2026.11.27~2026.11.27 아이빔테크놀로지 [BIOHA 온오프라인 교류회] 전임상 약물 평가를 위한 생체현미경 기술 세미나 대전과학산업진흥원, (사)바이오헬스케어협회",
     "source_url": "https://www.bioin.or.kr/index.do",
     "start": "2026-11-27",
@@ -390,6 +432,27 @@
     ],
     "origin": "labelled multi-source candidate — review source",
     "evidence": "2026/11/27-28 | 2026/11/27-28, 대한피부연구학회 리서치캠프 개최 안내 11.27 ~ 11.28 전라북도 전주 라한호텔"
+  },
+  {
+    "title": "European Oncology Conference (EOC)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-human-computer-interaction-ichci-2027-january-bangkok-th",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "November 27, 2026 | November 27, 2026 European Oncology Conference (EOC) - Bangkok, Thailand"
   },
   {
     "title": "ICEIC 2027 — Camera-ready paper",
@@ -680,6 +743,27 @@
     "origin": "official page checked 2026-11-26"
   },
   {
+    "title": "Flash Radiotherapy and Particle Therapy Conference (FRPT-SFRT)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2026-12-02",
+    "end": "2026-12-02",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 02, 2026 | December 02, 2026 Flash Radiotherapy and Particle Therapy Conference (FRPT-SFRT) - Lisbon, Portugal"
+  },
+  {
     "title": "IDW 2026",
     "source_url": "https://www.idw.or.jp/",
     "start": "2026-12-02",
@@ -693,6 +777,90 @@
       "Micro LED / AR / VR"
     ],
     "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "International Conference on Aerospace, Mechanical, Automotive and Materials Engineering (ICAMAME)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-unmanned-systems-icius-2027-march-rome-it",
+    "start": "2026-12-03",
+    "end": "2026-12-03",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 03, 2026 | December 03, 2026 International Conference on Aerospace, Mechanical, Automotive and Materials Engineering (ICAMAME) - Auckland, New Zealand"
+  },
+  {
+    "title": "International Conference on Business, Economics, Finance, and Management (ICBEFM)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2026-12-03",
+    "end": "2026-12-03",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 03, 2026 | December 03, 2026 International Conference on Business, Economics, Finance, and Management (ICBEFM) - Auckland, New Zealand"
+  },
+  {
+    "title": "International Conference on Communication and Information Technology and Engineering (ICCITE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-signal-processing-and-communication-systems-icispcs-2027-february-paris-fr",
+    "start": "2026-12-03",
+    "end": "2026-12-03",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 03, 2026 | December 03, 2026 International Conference on Communication and Information Technology and Engineering (ICCITE) - Tokyo, Japan"
+  },
+  {
+    "title": "International Conference on Computer and Software Engineering (ICCSE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-mathematics-iccsm-2027-february-tokyo-jp",
+    "start": "2026-12-03",
+    "end": "2026-12-03",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 03, 2026 | December 03, 2026 International Conference on Computer and Software Engineering (ICCSE) - Sydney, Australia"
   },
   {
     "title": "SEMIEXPO Vietnam 2026",
@@ -876,6 +1044,132 @@
     "evidence": "2026-12-09 | Event 2026년 제3차 PILP 교육 \"AI가 일을 하는 나만의 에이전트 시스템 만들기(실습)\" 2026-12-09 13:30 안내"
   },
   {
+    "title": "International Conference on Genetics, Cellular and Molecular Biology",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2026-12-09",
+    "end": "2026-12-09",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 09, 2026 | December 09, 2026 International Conference on Genetics, Cellular and Molecular Biology - Lisbon, Portugal"
+  },
+  {
+    "title": "International Conference on Research in Science, Engineering & Technology (LRSET)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2026-12-09",
+    "end": "2026-12-09",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 09, 2026 | December 09, 2026 International Conference on Research in Science, Engineering & Technology (LRSET) - Lisbon, Portugal"
+  },
+  {
+    "title": "International Congress on Chemical, Biological, Environmental & Health Sciences (LCBEHS-26)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2026-12-09",
+    "end": "2026-12-09",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 09, 2026 | December 09, 2026 International Congress on Chemical, Biological, Environmental & Health Sciences (LCBEHS-26) - Lisbon, Portugal"
+  },
+  {
+    "title": "International Congress on Economics, Business, Human Resources & Management (EBHRM)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2026-12-09",
+    "end": "2026-12-09",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 09, 2026 | December 09, 2026 International Congress on Economics, Business, Human Resources & Management (EBHRM) - Lisbon, Portugal"
+  },
+  {
+    "title": "World Conference on Cybersecurity, IoT, and Cloud Solutions (LCICS)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2026-12-09",
+    "end": "2026-12-09",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 09, 2026 | December 09, 2026 World Conference on Cybersecurity, IoT, and Cloud Solutions (LCICS) - Lisbon, Portugal"
+  },
+  {
+    "title": "World Congress on Ecological Agriculture, Biodiversity & Public Health",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2026-12-09",
+    "end": "2026-12-09",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 09, 2026 | December 09, 2026 World Congress on Ecological Agriculture, Biodiversity & Public Health - Lisbon, Portugal"
+  },
+  {
     "title": "2026 AMD 리뷰 워크숍",
     "source_url": "https://k-ids.or.kr/Conference/ConferenceView.asp?AC=0&B_CATE=bbc1&CODE=CC20261102",
     "start": "2026-12-10",
@@ -902,6 +1196,90 @@
     ],
     "origin": "official page checked 2026-11-24",
     "organizer": "IDEC"
+  },
+  {
+    "title": "International Conference on Artificial Neural Networks Engineering (ICANNE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2026-12-10",
+    "end": "2026-12-10",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 10, 2026 | December 10, 2026 International Conference on Artificial Neural Networks Engineering (ICANNE) - Macau, China"
+  },
+  {
+    "title": "International Conference on Computer Science and Mathematics (ICCSM)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2026-12-10",
+    "end": "2026-12-10",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 10, 2026 | December 10, 2026 International Conference on Computer Science and Mathematics (ICCSM) - New York, United States"
+  },
+  {
+    "title": "International Conference on Mechatronics, Manufacturing and Industrial Engineering (ICMIE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-mathematics-iccsm-2027-february-tokyo-jp",
+    "start": "2026-12-10",
+    "end": "2026-12-10",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 10, 2026 | December 10, 2026 International Conference on Mechatronics, Manufacturing and Industrial Engineering (ICMIE) - New York, United States"
+  },
+  {
+    "title": "International Conference on Signal Processing (ICSP)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-signal-processing-and-communication-systems-icispcs-2027-february-paris-fr",
+    "start": "2026-12-10",
+    "end": "2026-12-10",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 10, 2026 | December 10, 2026 International Conference on Signal Processing (ICSP) - New York, United States"
   },
   {
     "title": "ASP-DAC 2027 — Early bird",
@@ -970,6 +1348,174 @@
     ],
     "origin": "labelled multi-source candidate — review source",
     "evidence": "2026.12.17~2026.12.17 | 12월 2026.12.17~2026.12.17 2026 바이오헬스 미래인재 Awards · Forum 보건복지부, 한국보건산업진흥원, 한림의학원"
+  },
+  {
+    "title": "International Conference on Artificial Intelligence and Neural Networks (ICAINN)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2026-12-17",
+    "end": "2026-12-17",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 17, 2026 | December 17, 2026 International Conference on Artificial Intelligence and Neural Networks (ICAINN) - Cairo, Egypt"
+  },
+  {
+    "title": "International Conference on Autonomous Agents and Multiagent Systems (ICAAMS)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2026-12-17",
+    "end": "2026-12-17",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 17, 2026 | December 17, 2026 International Conference on Autonomous Agents and Multiagent Systems (ICAAMS) - Cairo, Egypt"
+  },
+  {
+    "title": "International Conference on Business and Commerce Management (ICBCM)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2026-12-17",
+    "end": "2026-12-17",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 17, 2026 | December 17, 2026 International Conference on Business and Commerce Management (ICBCM) - Cairo, Egypt"
+  },
+  {
+    "title": "International Conference on Communications, Networking and Mobile Computing (ICCNMC)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-signal-processing-and-communication-systems-icispcs-2027-february-paris-fr",
+    "start": "2026-12-17",
+    "end": "2026-12-17",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 17, 2026 | December 17, 2026 International Conference on Communications, Networking and Mobile Computing (ICCNMC) - Cairo, Egypt"
+  },
+  {
+    "title": "International Conference on Computer Science, Engineering and Technology (ICCSET)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2026-12-17",
+    "end": "2026-12-17",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 17, 2026 | December 17, 2026 International Conference on Computer Science, Engineering and Technology (ICCSET) - Cairo, Egypt"
+  },
+  {
+    "title": "International Conference on Data Analysis and Decision Making (ICDADM)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2026-12-17",
+    "end": "2026-12-17",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 17, 2026 | December 17, 2026 International Conference on Data Analysis and Decision Making (ICDADM) - Vientiane, Laos"
+  },
+  {
+    "title": "International Conference on Economics and Business (ICEB)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2026-12-17",
+    "end": "2026-12-17",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 17, 2026 | December 17, 2026 International Conference on Economics and Business (ICEB) - Vientiane, Laos"
+  },
+  {
+    "title": "International Conference on Economics and Business Management (ICEBM)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2026-12-17",
+    "end": "2026-12-17",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 17, 2026 | December 17, 2026 International Conference on Economics and Business Management (ICEBM) - Cairo, Egypt"
   },
   {
     "title": "International Conference on Science & Technology, 17-18 December 2026, Bali",
@@ -1080,6 +1626,90 @@
     "origin": "legacy V3.1 import — review source"
   },
   {
+    "title": "International Conference on Computer Science and Information Technology (ICCSIT)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2026-12-24",
+    "end": "2026-12-24",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 24, 2026 | December 24, 2026 International Conference on Computer Science and Information Technology (ICCSIT) - Bangkok, Thailand"
+  },
+  {
+    "title": "International Conference on Image and Pattern Recognition (ICIPR)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-robotics-and-applications-icira-2027-january-singapore-sg",
+    "start": "2026-12-24",
+    "end": "2026-12-24",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 24, 2026 | December 24, 2026 International Conference on Image and Pattern Recognition (ICIPR) - Istanbul, Turkey"
+  },
+  {
+    "title": "International Conference on Robotics, Machine Learning and Artificial Intelligence (ICRMLAI)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-robotics-and-applications-icira-2027-january-singapore-sg",
+    "start": "2026-12-24",
+    "end": "2026-12-24",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 24, 2026 | December 24, 2026 International Conference on Robotics, Machine Learning and Artificial Intelligence (ICRMLAI) - Mumbai, India"
+  },
+  {
+    "title": "International Conference on Systems and Software Engineering (ICSSE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2026-12-24",
+    "end": "2026-12-24",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 24, 2026 | December 24, 2026 International Conference on Systems and Software Engineering (ICSSE) - Istanbul, Turkey"
+  },
+  {
     "title": "ITC 2027 — Abstract submission",
     "source_url": "https://www.itc2027.org/",
     "start": "2026-12-28",
@@ -1092,6 +1722,237 @@
       "TFT 집적회로"
     ],
     "origin": "manual import"
+  },
+  {
+    "title": "International Conference on Business Administration, Management and Economics (ICBAME)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2026-12-30",
+    "end": "2026-12-30",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 30, 2026 | December 30, 2026 International Conference on Business Administration, Management and Economics (ICBAME) - Dubai, United Arab Emirates"
+  },
+  {
+    "title": "International Conference on Business, Economics and Information Technology (ICBEIT)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2026-12-30",
+    "end": "2026-12-30",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 30, 2026 | December 30, 2026 International Conference on Business, Economics and Information Technology (ICBEIT) - Karachi, Pakistan"
+  },
+  {
+    "title": "International Conference on Business, Economics, Finance and Management Sciences (ICBEFMS)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2026-12-30",
+    "end": "2026-12-30",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 30, 2026 | December 30, 2026 International Conference on Business, Economics, Finance and Management Sciences (ICBEFMS) - Paris, France"
+  },
+  {
+    "title": "International Conference on Business, Management, Economics and Finance (ICBMEF)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2026-12-30",
+    "end": "2026-12-30",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 30, 2026 | December 30, 2026 International Conference on Business, Management, Economics and Finance (ICBMEF) - Dubai, United Arab Emirates"
+  },
+  {
+    "title": "International Conference on Cognitive Wireless Networks and Communications (ICCWNC)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2026-12-30",
+    "end": "2026-12-30",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 30, 2026 | December 30, 2026 International Conference on Cognitive Wireless Networks and Communications (ICCWNC) - Dubai, United Arab Emirates"
+  },
+  {
+    "title": "International Conference on Communication Systems, Networks and Digital Signal Processing (ICCSNDSP)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-signal-processing-and-communication-systems-icispcs-2027-february-paris-fr",
+    "start": "2026-12-30",
+    "end": "2026-12-30",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 30, 2026 | December 30, 2026 International Conference on Communication Systems, Networks and Digital Signal Processing (ICCSNDSP) - Dubai, United Arab Emirates"
+  },
+  {
+    "title": "International Conference on Communication and Electronic Information Engineering (ICCEIE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-signal-processing-and-communication-systems-icispcs-2027-february-paris-fr",
+    "start": "2026-12-30",
+    "end": "2026-12-30",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 30, 2026 | December 30, 2026 International Conference on Communication and Electronic Information Engineering (ICCEIE) - Dubai, United Arab Emirates"
+  },
+  {
+    "title": "International Conference on Computational Intelligence and Software Engineering (ICCISE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2026-12-30",
+    "end": "2026-12-30",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 30, 2026 | December 30, 2026 International Conference on Computational Intelligence and Software Engineering (ICCISE) - Dubai, United Arab Emirates"
+  },
+  {
+    "title": "International Conference on Intelligent Systems (ICIS)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2026-12-30",
+    "end": "2026-12-30",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 30, 2026 | December 30, 2026 International Conference on Intelligent Systems (ICIS) - Vienna, Austria"
+  },
+  {
+    "title": "International Conference on Pattern Recognition and Computer Vision (ICPRCV)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2026-12-30",
+    "end": "2026-12-30",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 30, 2026 | December 30, 2026 International Conference on Pattern Recognition and Computer Vision (ICPRCV) - Dubai, United Arab Emirates"
+  },
+  {
+    "title": "International Conference on Software Engineering and Technology (ICSET)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-mathematics-iccsm-2027-february-tokyo-jp",
+    "start": "2026-12-30",
+    "end": "2026-12-30",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 30, 2026 | December 30, 2026 International Conference on Software Engineering and Technology (ICSET) - Paris, France"
   },
   {
     "title": "IDEC — 제14기 시스템반도체설계실무인력양성",
@@ -1136,6 +1997,47 @@
     "origin": "structured feed"
   },
   {
+    "title": "International Conference on Intelligent Robotics and Applications",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-robotics-and-applications-icira-2027-january-singapore-sg",
+    "start": "2027-01-07",
+    "end": "2027-01-08",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled aggregator structured candidate — review source"
+  },
+  {
+    "title": "1월 2027.01.11~2027.01.13 제14회 NAPA 국제학술대회 개최 NAPA",
+    "source_url": "https://www.bioin.or.kr/index.do",
+    "start": "2027-01-11",
+    "end": "2027-01-13",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2027.01.11~2027.01.13 | 1월 2027.01.11~2027.01.13 제14회 NAPA 국제학술대회 개최 NAPA"
+  },
+  {
     "title": "1월 2027.01.13~2027.01.15 2027년 한국줄기세포학회 동계학술대회 한국줄기세포학회",
     "source_url": "https://www.bioin.or.kr/index.do",
     "start": "2027-01-13",
@@ -1167,6 +2069,68 @@
       "AI 반도체"
     ],
     "origin": "structured feed"
+  },
+  {
+    "title": "International Conference on Computer Science and Information Technology",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-information-technology-iccsit-2027-january-montevideo-uy",
+    "start": "2027-01-14",
+    "end": "2027-01-15",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled aggregator structured candidate — review source"
+  },
+  {
+    "title": "International Conference on Computer Science and Information Technology (ICCSIT)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2027-01-14",
+    "end": "2027-01-14",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "January 14, 2027 | January 14, 2027 International Conference on Computer Science and Information Technology (ICCSIT) - Montevideo, Uruguay"
+  },
+  {
+    "title": "International Conference on Neural Networks and Engineering Applications (ICNNEA)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2027-01-14",
+    "end": "2027-01-14",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "January 14, 2027 | January 14, 2027 International Conference on Neural Networks and Engineering Applications (ICNNEA) - Montevideo, Uruguay"
   },
   {
     "title": "KCS 2027 — The 34th Korean Conference on Semiconductors — registration deadline",
@@ -1251,6 +2215,130 @@
     "evidence": "2027.01.21~2027.01.21 | 1월 2027.01.21~2027.01.21 제1회 한국뇌신경과학회 환경신경분과 학술대회 한국뇌신경과학회 환경신경분과"
   },
   {
+    "title": "International Conference on Business Administration, Management and Economics (ICBAME)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-01-21",
+    "end": "2027-01-21",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "January 21, 2027 | January 21, 2027 International Conference on Business Administration, Management and Economics (ICBAME) - Mandalay, Myanmar"
+  },
+  {
+    "title": "International Conference on Business, Management, Economics and Finance (ICBMEF)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-01-21",
+    "end": "2027-01-21",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "January 21, 2027 | January 21, 2027 International Conference on Business, Management, Economics and Finance (ICBMEF) - Mandalay, Myanmar"
+  },
+  {
+    "title": "International Conference on Human-Computer Interaction",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-human-computer-interaction-ichci-2027-january-bangkok-th",
+    "start": "2027-01-21",
+    "end": "2027-01-22",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled aggregator structured candidate — review source"
+  },
+  {
+    "title": "International Conference on Human-Computer Interaction (ICHCI)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2027-01-21",
+    "end": "2027-01-21",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "January 21, 2027 | January 21, 2027 International Conference on Human-Computer Interaction (ICHCI) - Amsterdam, Netherlands"
+  },
+  {
+    "title": "International Conference on Intelligent Information and Engineering Systems",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2027-01-21",
+    "end": "2027-01-22",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled aggregator structured candidate — review source"
+  },
+  {
+    "title": "International Conference on Intelligent Information and Engineering Systems (ICIIES)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2027-01-21",
+    "end": "2027-01-21",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "January 21, 2027 | January 21, 2027 International Conference on Intelligent Information and Engineering Systems (ICIIES) - London, United Kingdom"
+  },
+  {
     "title": "ICEIC 2027",
     "source_url": "https://www.iceic.org/2027/download/ICEIC_2027_CFP_20261029.pdf",
     "start": "2027-01-24",
@@ -1326,6 +2414,89 @@
     "origin": "legacy V3.1 import — review source"
   },
   {
+    "title": "1월 2027.01.28~2027.01.29 2027 MSK 진균유전생물 컨퍼런스 한국미생물학회",
+    "source_url": "https://www.bioin.or.kr/index.do",
+    "start": "2027-01-28",
+    "end": "2027-01-29",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2027.01.28~2027.01.29 | 1월 2027.01.28~2027.01.29 2027 MSK 진균유전생물 컨퍼런스 한국미생물학회"
+  },
+  {
+    "title": "International Conference on Cognitive Wireless Networks and Communications",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2027-01-28",
+    "end": "2027-01-29",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled aggregator structured candidate — review source"
+  },
+  {
+    "title": "1월 2027.01.29~2027.01.29 제19회 대한암학회 동계 워크샵 대한암학회",
+    "source_url": "https://www.bioin.or.kr/index.do",
+    "start": "2027-01-29",
+    "end": "2027-01-29",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2027.01.29~2027.01.29 | 1월 2027.01.29~2027.01.29 제19회 대한암학회 동계 워크샵 대한암학회"
+  },
+  {
+    "title": "제19회 대한암학회 동계 워크샵",
+    "source_url": "https://www.bioin.or.kr/EventEdc.do?bid=semina",
+    "start": "2027-01-29",
+    "end": "2027-01-29",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2027-01-29 ~  01-29 | 11884 예정 제19회 대한암학회 동계 워크샵 대한암학회 2027-01-29 ~  01-29 2026-11-25 ~ 2027-01-15 가톨릭의대 성의회관 마리아홀"
+  },
+  {
     "title": "Superconducting Qubit Readout Workshop 2027 — Registration",
     "start": "2027-01-31",
     "end": "2027-01-31",
@@ -1350,6 +2521,69 @@
     "origin": "official page checked 2026-11-26"
   },
   {
+    "title": "International Conference on Advanced Computing, Engineering and Cybersecurity (ACEC-)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2027-02-03",
+    "end": "2027-02-03",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 03, 2027 | February 03, 2027 International Conference on Advanced Computing, Engineering and Cybersecurity (ACEC-) - Lisbon, Portugal"
+  },
+  {
+    "title": "International Congress on Food, Agricultural & Environmental Sciences Research (FAESR)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2027-02-03",
+    "end": "2027-02-03",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 03, 2027 | February 03, 2027 International Congress on Food, Agricultural & Environmental Sciences Research (FAESR) - Lisbon, Portugal"
+  },
+  {
+    "title": "World Conference on Literature, Languages, Humanities & Social Sciences",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2027-02-03",
+    "end": "2027-02-03",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 03, 2027 | February 03, 2027 World Conference on Literature, Languages, Humanities & Social Sciences - Lisbon, Portugal"
+  },
+  {
     "title": "ALD/ALE 2027 — Abstract",
     "source_url": "https://ald2027.avs.org/schedule/",
     "start": "2027-02-04",
@@ -1362,6 +2596,111 @@
       "소재 및 나노 기술"
     ],
     "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "International Conference on Business, Economics, Finance, and Management (ICBEFM)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-02-04",
+    "end": "2027-02-04",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 04, 2027 | February 04, 2027 International Conference on Business, Economics, Finance, and Management (ICBEFM) - Melbourne, Australia"
+  },
+  {
+    "title": "International Conference on Communication and Information Technology and Engineering (ICCITE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-signal-processing-and-communication-systems-icispcs-2027-february-paris-fr",
+    "start": "2027-02-04",
+    "end": "2027-02-04",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 04, 2027 | February 04, 2027 International Conference on Communication and Information Technology and Engineering (ICCITE) - Guangzhou, China"
+  },
+  {
+    "title": "International Conference on Computational Intelligence and Software Engineering (ICCISE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2027-02-04",
+    "end": "2027-02-04",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 04, 2027 | February 04, 2027 International Conference on Computational Intelligence and Software Engineering (ICCISE) - Guangzhou, China"
+  },
+  {
+    "title": "International Conference on Machine Learning and Pattern Recognition (ICMLPR)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-mathematics-iccsm-2027-february-tokyo-jp",
+    "start": "2027-02-04",
+    "end": "2027-02-04",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 04, 2027 | February 04, 2027 International Conference on Machine Learning and Pattern Recognition (ICMLPR) - Guangzhou, China"
+  },
+  {
+    "title": "International Conference on Wireless and Mobile Communication Systems (ICWMCS)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-signal-processing-and-communication-systems-icispcs-2027-february-paris-fr",
+    "start": "2027-02-04",
+    "end": "2027-02-04",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 04, 2027 | February 04, 2027 International Conference on Wireless and Mobile Communication Systems (ICWMCS) - Guangzhou, China"
   },
   {
     "title": "IEEE ISSCC 2027",
@@ -1520,16 +2859,184 @@
     "origin": "legacy V3.1 import — review source"
   },
   {
+    "title": "International Conference on Applied Aerodynamics and Aeromechanics (ICAAA)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-robotics-and-applications-icira-2027-january-singapore-sg",
+    "start": "2027-02-18",
+    "end": "2027-02-18",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 18, 2027 | February 18, 2027 International Conference on Applied Aerodynamics and Aeromechanics (ICAAA) - Mumbai, India"
+  },
+  {
+    "title": "International Conference on Bioscience, Biotechnology, and Biochemistry (ICBBB)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-robotics-and-applications-icira-2027-january-singapore-sg",
+    "start": "2027-02-18",
+    "end": "2027-02-18",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 18, 2027 | February 18, 2027 International Conference on Bioscience, Biotechnology, and Biochemistry (ICBBB) - Mumbai, India"
+  },
+  {
+    "title": "International Conference on Economics and Management (ICEM)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-02-18",
+    "end": "2027-02-18",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 18, 2027 | February 18, 2027 International Conference on Economics and Management (ICEM) - Mumbai, India"
+  },
+  {
+    "title": "International Conference on Educational Sciences (ICES)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-robotics-and-applications-icira-2027-january-singapore-sg",
+    "start": "2027-02-18",
+    "end": "2027-02-18",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 18, 2027 | February 18, 2027 International Conference on Educational Sciences (ICES) - Mumbai, India"
+  },
+  {
+    "title": "International Conference on Electrical and Mechatronics Engineering (ICEME)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-robotics-and-applications-icira-2027-january-singapore-sg",
+    "start": "2027-02-18",
+    "end": "2027-02-18",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 18, 2027 | February 18, 2027 International Conference on Electrical and Mechatronics Engineering (ICEME) - Mumbai, India"
+  },
+  {
+    "title": "International Conference on Marine Science and Aquaculture (ICMSA)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-robotics-and-applications-icira-2027-january-singapore-sg",
+    "start": "2027-02-18",
+    "end": "2027-02-18",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 18, 2027 | February 18, 2027 International Conference on Marine Science and Aquaculture (ICMSA) - Mumbai, India"
+  },
+  {
+    "title": "International Conference on Materials Science and Engineering (ICMSE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-robotics-and-applications-icira-2027-january-singapore-sg",
+    "start": "2027-02-18",
+    "end": "2027-02-18",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 18, 2027 | February 18, 2027 International Conference on Materials Science and Engineering (ICMSE) - Mumbai, India"
+  },
+  {
+    "title": "International Conference on Mechatronics, Manufacturing and Industrial Engineering (ICMIE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-robotics-and-applications-icira-2027-january-singapore-sg",
+    "start": "2027-02-18",
+    "end": "2027-02-18",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 18, 2027 | February 18, 2027 International Conference on Mechatronics, Manufacturing and Industrial Engineering (ICMIE) - Mumbai, India"
+  },
+  {
     "title": "QIP 2027",
+    "source_url": "https://qipconference.org/2027/",
     "start": "2027-02-20",
     "end": "2027-02-26",
-    "source_url": "https://qipconference.org/2027/",
+    "location": "University Cultural Centre (UCC), National University of Singapore, Kent Ridge campus, Singapore",
     "kind": "학회",
-    "location": "Singapore",
     "fields": [
       "양자컴퓨팅 / Quantum Computing"
     ],
-    "origin": "official page checked 2026-11-26"
+    "origin": "structured feed"
   },
   {
     "title": "SPIE Advanced Lithography + Patterning 2027",
@@ -1573,11 +3080,176 @@
     "evidence": "23-24 February 2027 | 23rd HuSoc Amsterdam – Humanities & Social Sciences International Conference, 23-24 February 2027 Amsterdam, Netherlands online and in-person"
   },
   {
+    "title": "International Conference on Business, Economics, Finance and Management Sciences (ICBEFMS)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-02-25",
+    "end": "2027-02-25",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 25, 2027 | February 25, 2027 International Conference on Business, Economics, Finance and Management Sciences (ICBEFMS) - New Delhi, India"
+  },
+  {
+    "title": "International Conference on Cognitive Wireless Networks and Communications (ICCWNC)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2027-02-25",
+    "end": "2027-02-25",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 25, 2027 | February 25, 2027 International Conference on Cognitive Wireless Networks and Communications (ICCWNC) - Tokyo, Japan"
+  },
+  {
+    "title": "International Conference on Computer Science and Mathematics",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-mathematics-iccsm-2027-february-tokyo-jp",
+    "start": "2027-02-25",
+    "end": "2027-02-26",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled aggregator structured candidate — review source"
+  },
+  {
+    "title": "International Conference on Computer Science and Mathematics (ICCSM)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2027-02-25",
+    "end": "2027-02-25",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 25, 2027 | February 25, 2027 International Conference on Computer Science and Mathematics (ICCSM) - Tokyo, Japan"
+  },
+  {
+    "title": "International Conference on Intelligent Signal Processing and Communication Systems",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-signal-processing-and-communication-systems-icispcs-2027-february-paris-fr",
+    "start": "2027-02-25",
+    "end": "2027-02-26",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled aggregator structured candidate — review source"
+  },
+  {
+    "title": "International Conference on Software Engineering and Technology (ICSET)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-mathematics-iccsm-2027-february-tokyo-jp",
+    "start": "2027-02-25",
+    "end": "2027-02-25",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "February 25, 2027 | February 25, 2027 International Conference on Software Engineering and Technology (ICSET) - Tokyo, Japan"
+  },
+  {
     "title": "DVCon U.S. 2027",
     "source_url": "https://calendar.vlsi.kr/events/dvcon-us-2027/",
     "start": "2027-03-01",
     "end": "2027-03-04",
     "location": "Hyatt Regency Santa Clara, 5101 Great America Parkway, Santa Clara, CA, CA, US",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled aggregator structured candidate — review source"
+  },
+  {
+    "title": "International Conference on Communications, Networking and Mobile Computing (ICCNMC)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-signal-processing-and-communication-systems-icispcs-2027-february-paris-fr",
+    "start": "2027-03-04",
+    "end": "2027-03-04",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "March 04, 2027 | March 04, 2027 International Conference on Communications, Networking and Mobile Computing (ICCNMC) - Rome, Italy"
+  },
+  {
+    "title": "International Conference on Intelligent Unmanned Systems",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-unmanned-systems-icius-2027-march-rome-it",
+    "start": "2027-03-04",
+    "end": "2027-03-05",
+    "location": "",
     "kind": "학회",
     "fields": [
       "TFT / Oxide TFT",
@@ -1612,6 +3284,48 @@
     ],
     "origin": "labelled multi-source candidate — review source",
     "evidence": "09-10 March 2027 | 9th Singapore International Conference on Research in Life-Science & Healthcare, 09-10 March 2027 Singapore, Singapore online and in-person"
+  },
+  {
+    "title": "International Conference on Image and Pattern Recognition (ICIPR)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-robotics-and-applications-icira-2027-january-singapore-sg",
+    "start": "2027-03-11",
+    "end": "2027-03-11",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "March 11, 2027 | March 11, 2027 International Conference on Image and Pattern Recognition (ICIPR) - Miami, United States"
+  },
+  {
+    "title": "International Conference on Systems and Software Engineering (ICSSE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2027-03-11",
+    "end": "2027-03-11",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "March 11, 2027 | March 11, 2027 International Conference on Systems and Software Engineering (ICSSE) - Miami, United States"
   },
   {
     "title": "ACM FPGA 2027",
@@ -1704,6 +3418,26 @@
       "소재 및 나노 기술"
     ],
     "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "International Conference on Knowledge and Innovation in the Context of Global Transformations",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-knowledge-and-innovation-in-the-context-of-global-transformations-cimegs-ic-2027-march-hammamet-tn",
+    "start": "2027-03-21",
+    "end": "2027-03-23",
+    "location": "Hammamet, Tunisia, Hammamet, Tunisia",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled aggregator structured candidate — review source"
   },
   {
     "title": "DATE 2027",
@@ -1814,6 +3548,69 @@
     "origin": "official page checked 2026-11-26"
   },
   {
+    "title": "International Conference on Communication and Electronic Information Engineering (ICCEIE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-signal-processing-and-communication-systems-icispcs-2027-february-paris-fr",
+    "start": "2027-04-01",
+    "end": "2027-04-01",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "April 01, 2027 | April 01, 2027 International Conference on Communication and Electronic Information Engineering (ICCEIE) - Mexico City, Mexico"
+  },
+  {
+    "title": "International Conference on Economics, Business, Finance and Management (ICEBFM)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-04-01",
+    "end": "2027-04-01",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "April 01, 2027 | April 01, 2027 International Conference on Economics, Business, Finance and Management (ICEBFM) - Cancún, Mexico"
+  },
+  {
+    "title": "International Conference on Intelligent Systems (ICIS)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2027-04-01",
+    "end": "2027-04-01",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "April 01, 2027 | April 01, 2027 International Conference on Intelligent Systems (ICIS) - Rome, Italy"
+  },
+  {
     "title": "IEEE ICMTS 2027",
     "source_url": "https://calendar.vlsi.kr/events/icmts-2027/",
     "start": "2027-04-05",
@@ -1846,6 +3643,69 @@
       "반도체 소자 및 공정"
     ],
     "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "International Conference on Artificial Intelligence and Soft Computing (ICAISC)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2027-04-08",
+    "end": "2027-04-08",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "April 08, 2027 | April 08, 2027 International Conference on Artificial Intelligence and Soft Computing (ICAISC) - Lisbon, Portugal"
+  },
+  {
+    "title": "International Conference on Broadband Communications, Networks, and Systems (ICBCNS)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-signal-processing-and-communication-systems-icispcs-2027-february-paris-fr",
+    "start": "2027-04-08",
+    "end": "2027-04-08",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "April 08, 2027 | April 08, 2027 International Conference on Broadband Communications, Networks, and Systems (ICBCNS) - Venice, Italy"
+  },
+  {
+    "title": "International Conference on Marketing, Product Management and Technology (ICMPMT)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-04-08",
+    "end": "2027-04-08",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "April 08, 2027 | April 08, 2027 International Conference on Marketing, Product Management and Technology (ICMPMT) - Venice, Italy"
   },
   {
     "title": "DAC 2027 — Author registration",
@@ -1968,6 +3828,68 @@
     "evidence": "14-15 April 2027 | 14th Pure & Applied Sciences International Conference, 14-15 April 2027, Tokyo Tokyo, Japan online and in-person"
   },
   {
+    "title": "International Conference on Electronics, Information and Communication Engineering (ICEICE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-signal-processing-and-communication-systems-icispcs-2027-february-paris-fr",
+    "start": "2027-04-15",
+    "end": "2027-04-15",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "April 15, 2027 | April 15, 2027 International Conference on Electronics, Information and Communication Engineering (ICEICE) - Seoul, Republic of Korea"
+  },
+  {
+    "title": "International Conference on Pattern Recognition and Computer Vision (ICPRCV)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2027-04-15",
+    "end": "2027-04-15",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "April 15, 2027 | April 15, 2027 International Conference on Pattern Recognition and Computer Vision (ICPRCV) - London, United Kingdom"
+  },
+  {
+    "title": "Balkan eCommerce Summit",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-04-20",
+    "end": "2027-04-21",
+    "location": "Sofia, Bulgaria, Sofia, Bulgaria",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled aggregator structured candidate — review source"
+  },
+  {
     "title": "ITC 2027 — International Thin-Film Transistors Conference",
     "source_url": "https://www.itc2027.org/",
     "start": "2027-04-20",
@@ -1982,6 +3904,27 @@
     "origin": "manual import"
   },
   {
+    "title": "International Conference on Knowledge and Innovation in the Context of Global Transformations CIMEGS-IC on March 21-23, 2027 in Hammamet, Tunisia — early registration",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-knowledge-and-innovation-in-the-context-of-global-transformations-cimegs-ic-2027-march-hammamet-tn",
+    "start": "2027-04-20",
+    "end": "2027-04-20",
+    "location": "",
+    "kind": "등록 마감",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "20 April 2027 |  by 31 January 2027 · conference 21–23 March 2027 · full papers after the conference by 20 April 2027."
+  },
+  {
     "title": "Touch Taiwan 2027",
     "source_url": "https://www.touchtaiwan.com/en/",
     "start": "2027-04-21",
@@ -1994,6 +3937,48 @@
       "반도체 소자 및 공정"
     ],
     "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "International Conference on Artificial Intelligence and Neural Networks (ICAINN)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2027-04-22",
+    "end": "2027-04-22",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "April 22, 2027 | April 22, 2027 International Conference on Artificial Intelligence and Neural Networks (ICAINN) - New York, United States"
+  },
+  {
+    "title": "International Conference on Computer Science, Engineering and Technology (ICCSET)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2027-04-22",
+    "end": "2027-04-22",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "April 22, 2027 | April 22, 2027 International Conference on Computer Science, Engineering and Technology (ICCSET) - New York, United States"
   },
   {
     "title": "Pure & Applied Sciences International Conference, 27-28 April 2027, London",
@@ -2036,6 +4021,90 @@
     ],
     "origin": "labelled multi-source candidate — review source",
     "evidence": "28-29 April 2027 | 28th London International Conference on Humanities and Arts, 28-29 April 2027 London, United Kingdom online and in-person"
+  },
+  {
+    "title": "International Conference on Autonomous Agents and Multiagent Systems (ICAAMS)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2027-04-29",
+    "end": "2027-04-29",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "April 29, 2027 | April 29, 2027 International Conference on Autonomous Agents and Multiagent Systems (ICAAMS) - Singapore, Singapore"
+  },
+  {
+    "title": "International Conference on Business and Commerce Management (ICBCM)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-04-29",
+    "end": "2027-04-29",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "April 29, 2027 | April 29, 2027 International Conference on Business and Commerce Management (ICBCM) - Singapore, Singapore"
+  },
+  {
+    "title": "International Conference on Business, Economics and Information Technology (ICBEIT)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-04-29",
+    "end": "2027-04-29",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "April 29, 2027 | April 29, 2027 International Conference on Business, Economics and Information Technology (ICBEIT) - Singapore, Singapore"
+  },
+  {
+    "title": "International Conference on Economics and Business Management (ICEBM)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-04-29",
+    "end": "2027-04-29",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "April 29, 2027 | April 29, 2027 International Conference on Economics and Business Management (ICEBM) - Singapore, Singapore"
   },
   {
     "title": "IEEE HOST 2027",
@@ -2135,6 +4204,174 @@
     "evidence": "12–13 May 2027 | 12th 2027 Imagining Sustainable Worlds Online Symposium, 12–13 May 2027 online"
   },
   {
+    "title": "International Conference on Communication Systems, Networks and Digital Signal Processing (ICCSNDSP)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-signal-processing-and-communication-systems-icispcs-2027-february-paris-fr",
+    "start": "2027-05-13",
+    "end": "2027-05-13",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "May 13, 2027 | May 13, 2027 International Conference on Communication Systems, Networks and Digital Signal Processing (ICCSNDSP) - Florence, Italy"
+  },
+  {
+    "title": "International Conference on Data Analysis and Decision Making (ICDADM)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2027-05-13",
+    "end": "2027-05-13",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "May 13, 2027 | May 13, 2027 International Conference on Data Analysis and Decision Making (ICDADM) - Amsterdam, Netherlands"
+  },
+  {
+    "title": "International Conference on Intelligent Robotics and Applications (ICIRA)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2027-05-13",
+    "end": "2027-05-13",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "May 13, 2027 | May 13, 2027 International Conference on Intelligent Robotics and Applications (ICIRA) - Amsterdam, Netherlands"
+  },
+  {
+    "title": "International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ICISSNIP)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2027-05-13",
+    "end": "2027-05-13",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "May 13, 2027 | May 13, 2027 International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ICISSNIP) - Amsterdam, Netherlands"
+  },
+  {
+    "title": "International Conference on Intelligent Signal Processing and Communication Systems (ICISPCS)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-cognitive-wireless-networks-and-communications-iccwnc-2027-january-paris-fr",
+    "start": "2027-05-13",
+    "end": "2027-05-13",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "May 13, 2027 | May 13, 2027 International Conference on Intelligent Signal Processing and Communication Systems (ICISPCS) - Amsterdam, Netherlands"
+  },
+  {
+    "title": "International Conference on Intelligent Unmanned Systems (ICIUS)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-mathematics-iccsm-2027-february-tokyo-jp",
+    "start": "2027-05-13",
+    "end": "2027-05-13",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "May 13, 2027 | May 13, 2027 International Conference on Intelligent Unmanned Systems (ICIUS) - Amsterdam, Netherlands"
+  },
+  {
+    "title": "International Conference on Internet Information Systems and Technologies (ICIIST)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-mathematics-iccsm-2027-february-tokyo-jp",
+    "start": "2027-05-13",
+    "end": "2027-05-13",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "May 13, 2027 | May 13, 2027 International Conference on Internet Information Systems and Technologies (ICIIST) - Amsterdam, Netherlands"
+  },
+  {
+    "title": "International Conference on Management, Economics, Finance and Business (ICMEFB)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-05-13",
+    "end": "2027-05-13",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "May 13, 2027 | May 13, 2027 International Conference on Management, Economics, Finance and Business (ICMEFB) - Florence, Italy"
+  },
+  {
     "title": "IEEE I2MTC 2027",
     "source_url": "https://calendar.vlsi.kr/events/i2mtc-2027/",
     "start": "2027-05-17",
@@ -2176,6 +4413,48 @@
     "evidence": "18-19 May 2027 | 18th International Conference on Science & Technology, 18-19 May 2027, Kuala Lumpur Kuala Lumpur, Malaysia online and in-person"
   },
   {
+    "title": "International Conference on Aerospace, Mechanical, Automotive and Materials Engineering (ICAMAME)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-unmanned-systems-icius-2027-march-rome-it",
+    "start": "2027-05-20",
+    "end": "2027-05-20",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "May 20, 2027 | May 20, 2027 International Conference on Aerospace, Mechanical, Automotive and Materials Engineering (ICAMAME) - Sydney, Australia"
+  },
+  {
+    "title": "International Conference on Computer Science and Applied Mathematics (ICCSAM)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-information-and-engineering-systems-iciies-2027-january-london-gb",
+    "start": "2027-05-20",
+    "end": "2027-05-20",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "May 20, 2027 | May 20, 2027 International Conference on Computer Science and Applied Mathematics (ICCSAM) - Belgrade, Serbia"
+  },
+  {
     "title": "Annual International Conference on Social Science and Education, Spain, 31 May-1 June 2027",
     "source_url": "https://conferencealerts.com/topic-listing?topic=Arts",
     "start": "2027-06-01",
@@ -2215,6 +4494,69 @@
       "Computer Science"
     ],
     "origin": "labelled aggregator structured candidate — review source"
+  },
+  {
+    "title": "International Conference on Cognitive Neuroscience (ICCN)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-06-03",
+    "end": "2027-06-03",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "June 03, 2027 | June 03, 2027 International Conference on Cognitive Neuroscience (ICCN) - Sofia, Bulgaria"
+  },
+  {
+    "title": "International Conference on Mechatronics and Mechanical Engineering (ICMME)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-06-03",
+    "end": "2027-06-03",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "June 03, 2027 | June 03, 2027 International Conference on Mechatronics and Mechanical Engineering (ICMME) - Sofia, Bulgaria"
+  },
+  {
+    "title": "International Conference on Statistics, Econometrics and Mathematics (ICSEM)",
+    "source_url": "https://conferenceindex.org/event/balkan-ecommerce-summit-2027-april-sofia-bg",
+    "start": "2027-06-03",
+    "end": "2027-06-03",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "June 03, 2027 | June 03, 2027 International Conference on Statistics, Econometrics and Mathematics (ICSEM) - Sofia, Bulgaria"
   },
   {
     "title": "UDDAC 2027: 37th ACM SIGDA / IEEE CEDA University Demonstration at DAC, The Chips to Systems Conference — Submission deadline",
@@ -2516,6 +4858,26 @@
       "소재 및 나노 기술"
     ],
     "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "International Conference on Food and Behaviour Research",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-food-and-behaviour-research-icfabr-2027-december-bangkok-th",
+    "start": "2027-12-20",
+    "end": "2027-12-21",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled aggregator structured candidate — review source"
   },
   {
     "title": "MRS Spring 2028",
