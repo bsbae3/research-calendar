@@ -1,5 +1,26 @@
 [
   {
+    "title": "광역형 국산의료기기 교육·훈련 지원센터 구축 및 운영 컨소시엄 모집 공고",
+    "source_url": "https://www.bioin.or.kr/board.do?bid=notice&cmd=list&cPage=1&cate1=all&cate2=all2&s_str=&sdate=2026/01/01&edate=2027/12/31&listCnt=15",
+    "start": "2026-10-29",
+    "end": "2026-11-30",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2026-10-29 ~ 2026-11-30 | 668 진행 광역형 국산의료기기 교육·훈련 지원센터 구축 및 운영 컨소시엄 모집 공고 한국보건산업진흥원 2026-10-29 ~ 2026-11-30 553"
+  },
+  {
     "title": "IDEC — 전력반도체 측정 및 실패모드 분석 (제목 일부) — 교육 신청 시작",
     "start": "2026-11-09",
     "end": "2026-11-09",
@@ -291,6 +312,40 @@
       "반도체 소자 및 공정"
     ],
     "origin": "manual import"
+  },
+  {
+    "title": "2026-11-26 뉴스1 바이오벤처 데스밸리 넘자…업계·정부, 사업화 지원 한목소리 문정바이오CEO포럼…오픈 이노베이션·투자 활성화 논의 (서울=뉴스1) 강승지 기자 = 국내 제약사와 바이오벤처 간 오픈 이노베이션(개방형 혁신)을 활성화하고 위축된 투자 시장을 회복하기 위해 민관 협력을 강화해야 한다는 목소리가 나왔다. 유망 기술이 자금난으로 사장되지",
+    "source_url": "https://www.bioin.or.kr/index.do",
+    "start": "2026-11-26",
+    "end": "2026-11-26",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2026-11-26 | 2026-11-26 뉴스1 바이오벤처 데스밸리 넘자…업계·정부, 사업화 지원 한목소리 문정바이오CEO포럼…오픈 이노베이션·투자 활성화 논의 (서울=뉴스1) 강승지 기자 = 국내 제약사와 바이오벤처 간 오픈 이노베이션(개방형 혁신)을 활성화하고 위축된 투자 시장을 회복하기 위해 민관 협력을 강화해야 한다는 목소리가 나왔다. 유망 기술이 자금난으로 사장되지"
+  },
+  {
+    "title": "2026년 하반기 국립대학 대학회계직원 퇴직포상 후보자 공개검증",
+    "source_url": "https://knu.ac.kr/wbbs/wbbs/bbs/btin/list.action?bbs_cde=1&menu_idx=67",
+    "start": "2026-11-26",
+    "end": "2026-11-26",
+    "location": "",
+    "kind": "세미나",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2026/11/26 | 264 2026년 하반기 국립대학 대학회계직원 퇴직포상 후보자 공개검증 총무과 2026/11/26 71"
   },
   {
     "title": "Designing with NXP & Avnet — Tijuana",
