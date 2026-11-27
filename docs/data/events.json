@@ -489,6 +489,19 @@
     "evidence": "2026/11/27-28 | 2026/11/27-28, 대한피부연구학회 리서치캠프 개최 안내 11.27 ~ 11.28 전라북도 전주 라한호텔"
   },
   {
+    "title": "2026년도 추계학술대회 2026년 11월 27일(금) ~ 28일(토) 곤지암리조트 EW빌리지(경기도 광주)",
+    "source_url": "https://www.theieie.org/",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "location": "",
+    "kind": "세미나",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2026년 11월 27일 | 2026년도 추계학술대회 2026년 11월 27일(금) ~ 28일(토) 곤지암리조트 EW빌리지(경기도 광주)"
+  },
+  {
     "title": "European Oncology Conference (EOC)",
     "source_url": "https://conferenceindex.org/event/international-conference-on-human-computer-interaction-ichci-2027-january-bangkok-th",
     "start": "2026-11-27",
@@ -565,6 +578,32 @@
     "evidence": "2026-11-27 | ⦁ [11.27/삼성전자 강의] 고성능 전자기기 열관리 혁신- Passive Cooling에서 Active Cooling으로의 대전환 2차 세미나 2026-11-27"
   },
   {
+    "title": "[글로벌교육센터]2026년 동계(1월) 학석사(박사통합)연계과정 재학생 대상 필리핀 어학연수생 모집(수정)",
+    "source_url": "https://knu.ac.kr/wbbs/wbbs/bbs/btin/list.action?bbs_cde=1&menu_idx=67",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "location": "",
+    "kind": "세미나",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2026/11/27 | 264 [글로벌교육센터]2026년 동계(1월) 학석사(박사통합)연계과정 재학생 대상 필리핀 어학연수생 모집(수정) 글로벌교육센터 2026/11/27 51"
+  },
+  {
+    "title": "[창의인재개발연구소] 2026년 학술대회 'AI 전환(AX)과 조직의 재설계' 개최 안내",
+    "source_url": "https://dankook.ac.kr/home",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "location": "",
+    "kind": "세미나",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2026-11-27 | 2026-11-27 [창의인재개발연구소] 2026년 학술대회 'AI 전환(AX)과 조직의 재설계' 개최 안내"
+  },
+  {
     "title": "아이빔테크놀로지 [BIOHA 온오프라인 교류회] 전임상 약물 평가를 위한 생체현미경 기술 세미나",
     "source_url": "https://www.bioin.or.kr/EventEdc.do?bid=semina",
     "start": "2026-11-27",
@@ -584,6 +623,27 @@
     ],
     "origin": "labelled multi-source candidate — review source",
     "evidence": "2026-11-27 ~  11-27 | 11877 예정 아이빔테크놀로지 [BIOHA 온오프라인 교류회] 전임상 약물 평가를 위한 생체현미경 기술 세미나 대전과학산업진흥원, (사)바이오헬스케어협회 2026-11-27 ~  11-27 대전광역시 대전시 유성구 테크노 9로 35, 어울림플라자 2층 소통마루"
+  },
+  {
+    "title": "International Conference on Recent Advances in Science Engineering and Technology (ICRASET)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-human-computer-interaction-ichci-2027-january-bangkok-th",
+    "start": "2026-11-28",
+    "end": "2026-11-28",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "November 28, 2026 | November 28, 2026 International Conference on Recent Advances in Science Engineering and Technology (ICRASET) - Bangkok, Thailand"
   },
   {
     "title": "2026 MRS Fall Meeting & Exhibit",
@@ -1044,6 +1104,27 @@
     "origin": "structured feed"
   },
   {
+    "title": "International Conference on Microelectronics 2026",
+    "source_url": "https://calendar.vlsi.kr/en/events/icm-2026/",
+    "start": "2026-12-07",
+    "end": "2026-12-10",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled official-page candidate — review source",
+    "evidence": "Event dates 2026-12-07 – 2026-12-10"
+  },
+  {
     "title": "Pure & Applied Sciences International Conference, 08-09 December 2026, Kuala Lumpur",
     "source_url": "https://conferencealerts.com/topic-listing?topic=Architecture",
     "start": "2026-12-08",
@@ -1348,6 +1429,27 @@
       "반도체 소자 및 공정"
     ],
     "origin": "legacy V3.1 import — review source"
+  },
+  {
+    "title": "[12.11] AI 기반 차세대 배터리 소재 나노스케일 분석과 실전 활용 심층 세미나",
+    "source_url": "https://kosen.kr/",
+    "start": "2026-12-11",
+    "end": "2026-12-11",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2026-12-11 | ⦁ [12.11] AI 기반 차세대 배터리 소재 나노스케일 분석과 실전 활용 심층 세미나 2026-12-11"
   },
   {
     "title": "[행사/세미나]\n\t\t\t\tIUC 10주년 기념 국제학술대회 (2026.12.11）",
