@@ -1012,6 +1012,27 @@
     "origin": "legacy V3.1 import — review source"
   },
   {
+    "title": "International Conference on Big Data and Education (ICBDE)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-human-computer-interaction-ichci-2027-january-bangkok-th",
+    "start": "2026-12-02",
+    "end": "2026-12-02",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 02, 2026 | December 02, 2026 International Conference on Big Data and Education (ICBDE) - Bangkok, Thailand"
+  },
+  {
     "title": "International Conference on Aerospace, Mechanical, Automotive and Materials Engineering (ICAMAME)",
     "source_url": "https://conferenceindex.org/event/international-conference-on-intelligent-unmanned-systems-icius-2027-march-rome-it",
     "start": "2026-12-03",
@@ -1285,6 +1306,48 @@
     "evidence": "December 03, 2026 | December 03, 2026 International Conference on Midwifery and Nurse Practitioners - Dubai, United Arab Emirates"
   },
   {
+    "title": "International Conference on Migration, Development and Human Security (ICMDHS)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-multidisciplinary-research-in-management-and-education-icmrme-2027-january-tokyo-jp",
+    "start": "2026-12-03",
+    "end": "2026-12-03",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 03, 2026 | December 03, 2026 International Conference on Migration, Development and Human Security (ICMDHS) - Tokyo, Japan"
+  },
+  {
+    "title": "International Conference on Sustainable Economic Development (ICSED)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-multidisciplinary-research-in-management-and-education-icmrme-2027-january-tokyo-jp",
+    "start": "2026-12-03",
+    "end": "2026-12-03",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 03, 2026 | December 03, 2026 International Conference on Sustainable Economic Development (ICSED) - Tokyo, Japan"
+  },
+  {
     "title": "SEMIEXPO Vietnam 2026",
     "source_url": "https://calendar.vlsi.kr/en/events/semiexpo-vietnam-2026/",
     "start": "2026-12-03",
@@ -1303,6 +1366,27 @@
       "Computer Science"
     ],
     "origin": "labelled aggregator structured candidate — review source"
+  },
+  {
+    "title": "World Congress on Education Technology, Lifelong Learning & AI-Driven (WCETLLA)",
+    "source_url": "https://conferenceindex.org/event/international-conference-on-power-and-energy-systems-engineering-icpese-2027-april-paris-fr",
+    "start": "2026-12-03",
+    "end": "2026-12-03",
+    "location": "",
+    "kind": "학회",
+    "fields": [
+      "TFT / Oxide TFT",
+      "LCD / OLED / Display",
+      "반도체 소자 및 공정",
+      "TFT 집적회로",
+      "AI 반도체",
+      "Micro LED / AR / VR",
+      "소재 및 나노 기술",
+      "센서",
+      "Computer Science"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "December 03, 2026 | December 03, 2026 World Congress on Education Technology, Lifelong Learning & AI-Driven (WCETLLA) - Dubai, United Arab Emirates"
   },
   {
     "title": "World Congress on Gynecology and Obstetrics (OBSRETRICS)",
@@ -2709,6 +2793,19 @@
     "delivery": "오프라인"
   },
   {
+    "title": "2027年1月5日 理研よこはまキャンパス 冬の見学会",
+    "source_url": "https://www.riken.jp/",
+    "start": "2027-01-05",
+    "end": "2027-01-05",
+    "location": "",
+    "kind": "세미나",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2027年1月5日 | 2027年1月5日 理研よこはまキャンパス 冬の見学会"
+  },
+  {
     "title": "ASP-DAC 2027 — Student forum poster",
     "source_url": "https://www.aspdac.com/aspdac2027/student_forum/",
     "start": "2027-01-05",
@@ -2732,6 +2829,19 @@
       "AI 반도체"
     ],
     "origin": "structured feed"
+  },
+  {
+    "title": "理研よこはまキャンパス 冬の見学会",
+    "source_url": "https://www.riken.jp/pr/events/",
+    "start": "2027-01-05",
+    "end": "2027-01-05",
+    "location": "",
+    "kind": "세미나",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2027年1月5日 | 2027年1月5日 理研よこはまキャンパス 冬の見学会 中学生 高校生 神奈川県横浜市"
   },
   {
     "title": "International Conference on Intelligent Robotics and Applications",
@@ -4209,6 +4319,19 @@
     "origin": "labelled aggregator structured candidate — review source"
   },
   {
+    "title": "RIKEN AGIS-BDR-R-CCS International Symposium “AI for Science”",
+    "source_url": "https://www.riken.jp/pr/events/",
+    "start": "2027-03-07",
+    "end": "2027-03-10",
+    "location": "",
+    "kind": "세미나",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2027年3月7日\r\n-\r\n10日 | 2027年3月7日\r\n-\r\n10日 RIKEN AGIS-BDR-R-CCS International Symposium “AI for Science” NEW 企業の方 研究者 大学院生 兵庫県神戸市"
+  },
+  {
     "title": "Singapore International Conference on Research in Life-Science & Healthcare, 09-10 March 2027",
     "source_url": "https://conferencealerts.com/topic-listing?topic=Agriculture",
     "start": "2027-03-09",
@@ -4290,6 +4413,19 @@
       "Computer Science"
     ],
     "origin": "labelled aggregator structured candidate — review source"
+  },
+  {
+    "title": "2027 RIKEN BDR-CuSTOM Joint Organoid Symposium",
+    "source_url": "https://www.riken.jp/pr/events/",
+    "start": "2027-03-15",
+    "end": "2027-03-17",
+    "location": "",
+    "kind": "세미나",
+    "fields": [
+      "반도체 소자 및 공정"
+    ],
+    "origin": "labelled multi-source candidate — review source",
+    "evidence": "2027年3月15日\r\n-\r\n17日 | 2027年3月15日\r\n-\r\n17日 2027 RIKEN BDR-CuSTOM Joint Organoid Symposium 企業の方 研究者 大学院生 兵庫県神戸市"
   },
   {
     "title": "QP 2027 — Quantum Programming Workshop",
